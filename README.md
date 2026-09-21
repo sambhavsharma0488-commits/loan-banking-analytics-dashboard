@@ -94,19 +94,18 @@ Loan_project/
 ├── DATA/
 │   ├── Raw_data/          loans.csv, customers.csv, transactions.csv
 │   └── Cleaned_data/      customers_clean.csv, loans_clean.csv, transactions_clean.csv
-├── PYTHON_SRC/            customer_clean.py, loans_clean.py, transaction_clean.py
-├── sql/                   loan_analysis_queries.sql
-├── dashboard/             Power BI (.pbix) file
-├── screenshots/           dashboard page images
-├── requirements.txt
+├── PYTHON_SRC/            customer_clean.py, loans_clean.py, transaction_clean.py,requirements.txt
+├── SQL/                   loan_analysis_queries.sql
+├── DASHBOARD/             Power BI (.pbix) file
+├── SCREENSHOTS/           dashboard page images
 └── README.md
 ```
 
 ## Setup
 
-1. Install the dependencies: `pip install -r requirements.txt`
+1. Install the dependencies: `pip install -r PYTHON_SRC/requirements.txt`
 2. Create a PostgreSQL database named `loan_analysis` with the `customers`, `loans` and `transactions` tables.
 3. Create a `.env` file in the project root containing `DB_PASSWORD=your_password`.
 4. Run the three scripts in `PYTHON_SRC/` to clean the data and load it into PostgreSQL.
-5. Run `sql/loan_analysis_queries.sql` to create the views.
+5. Run `SQL/loan_analysis_queries.sql` to create the views.
 6. Open the `.pbix` file in Power BI Desktop and refresh the data.
