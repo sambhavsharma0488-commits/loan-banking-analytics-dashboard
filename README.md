@@ -37,7 +37,7 @@ CSV  ->  Python (clean)  ->  PostgreSQL  ->  SQL views  ->  Power BI
 
 ### Screenshots
 
-![Home](screenshots/home.png)
+![Home](SCREENSHOTS/home.png)
 ![Overview](screenshots/overview.png)
 ![Sales Breakdown](screenshots/sales_breakdown.png)
 ![Customers](screenshots/customers.png)
