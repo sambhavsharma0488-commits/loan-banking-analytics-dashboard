@@ -37,12 +37,12 @@ CSV  ->  Python (clean)  ->  PostgreSQL  ->  SQL views  ->  Power BI
 
 ### Screenshots
 
-![Home](SCREENSHOTS/home.png)
-![Overview](screenshots/overview.png)
-![Sales Breakdown](screenshots/sales_breakdown.png)
-![Customers](screenshots/customers.png)
-![Loans](screenshots/loans.png)
-![RFM Segment](screenshots/rfm_segment.png)
+![Home](SCREENSHOTS/Home.png)
+![Overview](SCREENSHOTS/Overview.png)
+![Sales Breakdown](SCREENSHOTS/Sales%20Breakdown.png)
+![Customers](SCREENSHOTS/Customers.png)
+![Loans](SCREENSHOTS/Loans.png)
+![RFM Segment](SCREENSHOTS/RFM%20Segment.png)
 
 ## SQL Views
 
