@@ -1,0 +1,5 @@
+pandas
+numpy
+SQLAlchemy
+pg8000
+python-dotenv

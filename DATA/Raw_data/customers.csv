@@ -1,0 +1,1007 @@
+customer_id,name,age,gender,city,state,join_date,account_type,occupation
+1928,Pooja Rao,28.0,Male,Pune,Maharashtra,2023-03-22,Savings,Self-Employed
+1631,Pooja Reddy,50.0,Male,Hyderabad,Telangana,2022-02-13,Current,Business
+1683,Neha Rao,39.0,Female,Chandigarh,Punjab,2020-09-15,Savings,Business
+1515,Rekha Reddy,29.0,Male,Chandigarh,Punjab,2022-10-15,Current,Student
+1366,Swati Dubey,34.0,Female,Chennai,Tamil Nadu,2024-08-29,Salary,Salaried
+1656,Sneha Nair,25.0,Female,Chandigarh,Punjab,2024-06-03,Savings,Business
+1657,Rohit Mishra,43.0,Male,Bhopal,Madhya Pradesh,2024-08-31,Current,Business
+1530,Pooja Patel,23.0,Female,Chennai,Tamil Nadu,2022-07-22,Salary,Student
+1322,Ritu Tiwari,36.0,Male,Chennai,Tamil Nadu,2024-10-22,Salary,Business
+1071,Suresh Rao,38.0,Female,,Punjab,00/00/0000,Current,Self-Employed
+1892,Suresh Verma,33.0,Male,Bangalore,Karnataka,2023-11-04,Current,Self-Employed
+1372,Deepak Malhotra,46.0,Female,Chandigarh,Punjab,2023-04-20,Salary,Business
+1768,Swati Reddy,46.0,Male,Jaipur,Rajasthan,2020-08-11,Current,Self-Employed
+1457,Arjun Rao,55.0,Male,Ahmedabad,Gujarat,2024-05-20,Salary,Student
+1248,Ritu Iyer,40.0,Male,Bhopal,Madhya Pradesh,2023-12-24,Salary,Business
+1612,Swati Patel,22.0,Male,Lucknow,Uttar Pradesh,2023-03-31,Current,Business
+1706,Amit Rao,31.0,Female,Delhi,Delhi,2023-11-05,Salary,Student
+1981,Kavya Singh,25.0,Female,Kolkata,West Bengal,2021-02-17,Current,Self-Employed
+1299,Neha Dubey,38.0,female,Chennai,Tamil Nadu,2023-04-07,Salary,Salaried
+1102,Sanjay Tiwari,27.0,Male,Lucknow,Uttar Pradesh,2021-08-05,Current,Self-Employed
+1962,Amit Iyer,21.0,Male,Delhi,Delhi,2023-05-17,Savings,Business
+1606,Sneha Iyer,60.0,Male,Hyderabad,Telangana,2021-10-12,Current,Self-Employed
+1214,Deepak Iyer,49.0,Male,Jaipur,Rajasthan,2021-05-04,Current,Self-Employed
+1238,Kavya Dubey,59.0,Female,Bangalore,Karnataka,2023-11-13,Current,Student
+1594,Amit Patel,24.0,Male,Chennai,Tamil Nadu,2023-02-16,Savings,Business
+1282,Ritu Malhotra,37.0,Female,Hyderabad,Telangana,2021-05-19,Current,Student
+1378,Deepak Rao,46.0,Male,Bangalore,Karnataka,2023-08-04,Salary,Self-Employed
+1287,Ritu Nair,29.0,Male,Lucknow,Uttar Pradesh,2024-02-26,Salary,Business
+1389,Meena Tiwari,47.0,Female,Kolkata,West Bengal,2020-12-08,Savings,Salaried
+1885,Ritu Mehta,49.0,Male,Lucknow,Uttar Pradesh,2020-03-24,Savings,Salaried
+1718,Priya Kapoor,52.0,Female,Mumbai,Maharashtra,2022-01-20,Savings,Salaried
+1794,Rahul Joshi,39.0,Female,Delhi,Delhi,2021-09-22,Current,Student
+1097,Meena Reddy,43.0,Female,Chennai,Tamil Nadu,2021-09-19,Current,Business
+1245,Aakash Kapoor,56.0,Male,Chennai,Tamil Nadu,2024-05-06,Current,Self-Employed
+1747,Arjun Nair,56.0,Female,Lucknow,Uttar Pradesh,2024-02-03,Savings,Salaried
+1077,Sunita Rao,,Female,Kolkata,West Bengal,2020-02-29,Current,Student
+1899,Meena Gupta,34.0,Female,Bangalore,Karnataka,2022-03-04,Current,Business
+1210,Arjun Reddy,52.0,male,Hyderabad,Telangana,2020-10-08,Savings,Salaried
+1260,Kavya Dubey,25.0,Male,Bangalore,Karnataka,2022-06-19,Current,Self-Employed
+1159,Deepak Rao,44.0,Male,Chandigarh,Punjab,2022-01-22,Salary,Student
+1496,Manish Tiwari,23.0,Male,Chennai,Tamil Nadu,2022-04-05,Savings,Self-Employed
+1527,Sunita Kapoor,21.0,Male,Jaipur,Rajasthan,2021-02-12,Salary,Student
+1332,Kavya Gupta,33.0,Female,Hyderabad,Telangana,2022-02-16,Salary,Business
+1954,Vikram Sharma,29.0,Female,Pune,Maharashtra,2024-05-13,Current,Self-Employed
+1315,Arjun Singh,23.0,Female,,Uttar Pradesh,2024-04-17,Savings,Business
+1295,Suresh Joshi,28.0,Female,Bangalore,Karnataka,2024-02-06,Current,Student
+1382,Rekha Tiwari,54.0,Female,Lucknow,Uttar Pradesh,2022-03-06,Salary,Self-Employed
+1922,Kavya Mishra,55.0,Male,Kolkata,West Bengal,2021-12-11,Current,Self-Employed
+1850,Neha Dubey,31.0,Male,Lucknow,Uttar Pradesh,2024-02-12,Current,Salaried
+1877,Priya Reddy,24.0,Female,Bhopal,Madhya Pradesh,2020-03-28,Current,Salaried
+1622,Anita Malhotra,52.0,Female,Lucknow,Uttar Pradesh,2020-01-14,Salary,Business
+1719,Rahul Joshi,52.0,Male,Kolkata,West Bengal,2024-06-28,Salary,Salaried
+1060,Rekha Singh,40.0,Female,Chandigarh,Punjab,2022-04-16,Current,Self-Employed
+1626,Manish Mehta,47.0,Male,Hyderabad,Telangana,2020-03-29,Savings,Business
+1559,Ritu Sharma,26.0,Female,Jaipur,Rajasthan,2023-02-25,Savings,Self-Employed
+1784,Priya Iyer,42.0,Male,Mumbai,Maharashtra,2020-08-11,Current,Business
+1381,Ritu Mehta,44.0,Female,Hyderabad,Telangana,2022-07-26,Savings,Student
+1055,Rahul Joshi,46.0,Female,Chennai,Tamil Nadu,2024-11-05,Savings,Student
+1024,Arjun Joshi,40.0,Female,Chandigarh,Punjab,2023-08-23,Current,Self-Employed
+1031,Priya Kapoor,42.0,Male,Hyderabad,Telangana,2021-01-27,Savings,Self-Employed
+1878,Arjun Dubey,55.0,Male,Bhopal,Madhya Pradesh,2023-04-01,Savings,Salaried
+1430,Neha Sharma,23.0,Male,Hyderabad,Telangana,2020-04-04,Current,Student
+1011,Deepak Kapoor,38.0,Male,Chandigarh,Punjab,2021-10-26,Savings,Business
+1818,Pooja Reddy,41.0,Female,Kolkata,West Bengal,2020-03-02,Savings,Self-Employed
+1811,Arjun Malhotra,56.0,Female,Chennai,Tamil Nadu,2020-10-16,Salary,Student
+1483,Arjun Singh,22.0,Male,Bangalore,Karnataka,2023-07-31,Current,Salaried
+1446,Suresh Singh,26.0,Male,Chandigarh,Punjab,2021-09-15,Salary,Salaried
+1200,Deepak Dubey,23.0,Male,Pune,Maharashtra,2024-08-30,Current,Salaried
+1501,Aakash Malhotra,24.0,Male,Delhi,Delhi,2021-09-29,Salary,Self-Employed
+1774,Deepak Patel,37.0,Female,Bhopal,Madhya Pradesh,2023-08-21,Salary,Business
+1108,Rekha Patel,31.0,Male,Bangalore,Karnataka,2023-02-04,Savings,Business
+1219,Amit Rao,49.0,Female,Mumbai,Maharashtra,2022-04-29,Savings,Self-Employed
+1421,Meena Kapoor,26.0,Male,Chennai,Tamil Nadu,2020-06-20,Current,Salaried
+1175,Swati Malhotra,29.0,Male,Lucknow,Uttar Pradesh,2023-02-24,Salary,Student
+1721,Swati Patel,40.0,Male,Hyderabad,Telangana,2022-11-29,Savings,Salaried
+1520,Meena Reddy,44.0,Female,Lucknow,Uttar Pradesh,2021-08-25,Current,Salaried
+1454,Kiran Mishra,32.0,Female,Hyderabad,Telangana,2021-01-18,Current,Student
+1931,Sneha Sharma,46.0,Female,Bangalore,Karnataka,2022-07-27,Current,Business
+1040,Meena Reddy,37.0,male,Chandigarh,Punjab,2024-01-06,Current,Business
+1552,Sanjay Reddy,21.0,Male,Chandigarh,Punjab,2024-11-23,Current,Salaried
+1821,Kavya Dubey,46.0,Female,Hyderabad,Telangana,2023-06-25,Savings,Business
+1352,Rekha Kapoor,26.0,Female,Hyderabad,Telangana,2023-12-31,Savings,Salaried
+1067,Nikhil Kapoor,52.0,Female,Hyderabad,Telangana,2020-10-29,Salary,Salaried
+1278,Pooja Kapoor,30.0,Male,Mumbai,Maharashtra,2023-03-18,Salary,Salaried
+1068,Sneha Mishra,35.0,Male,Bhopal,Madhya Pradesh,2022-11-26,Current,Salaried
+1908,Ritu Sharma,47.0,Male,Bangalore,Karnataka,2022-01-04,Current,Business
+1823,Meena Reddy,55.0,Male,Bangalore,Karnataka,2023-09-19,Salary,Salaried
+1842,Sunita Dubey,53.0,Female,Lucknow,Uttar Pradesh,2024-02-11,Current,Self-Employed
+1297,Pooja Kapoor,48.0,Female,Delhi,Delhi,2022-03-31,Salary,Salaried
+1619,Kiran Tiwari,50.0,Male,Mumbai,Maharashtra,2023-08-21,Current,Salaried
+1599,Sunita Mehta,55.0,Male,Bangalore,Karnataka,2024-03-09,Current,Student
+1817,Sunita Rao,35.0,Male,Lucknow,Uttar Pradesh,2021-06-12,Current,Self-Employed
+1980,Sunita Sharma,32.0,Female,Lucknow,Uttar Pradesh,2023-10-23,Current,Business
+1424,Deepak Verma,-5.0,Male,Delhi,Delhi,2020-01-26,Salary,Business
+1758,Vikram Iyer,54.0,Male,Ahmedabad,Gujarat,2024-04-26,Savings,Business
+1313,Swati Rao,21.0,Male,Chennai,Tamil Nadu,2022-08-06,Salary,Self-Employed
+1185,Rekha Mishra,52.0,Female,Ahmedabad,Gujarat,2021-07-13,Savings,Salaried
+1333,Sunita Reddy,37.0,Female,Bhopal,Madhya Pradesh,2023-08-07,Salary,Self-Employed
+1089,Nikhil Gupta,48.0,Male,Bhopal,Madhya Pradesh,2022-12-04,Salary,Student
+1064,Aakash Tiwari,31.0,Male,Chennai,Tamil Nadu,2022-11-21,Salary,Student
+1953,Rohit Iyer,38.0,Female,Delhi,Delhi,2022-12-30,Salary,Student
+1577,Ritu Verma,43.0,Female,Delhi,Delhi,2023-06-15,Salary,Business
+1216,Aakash Mishra,31.0,Male,Lucknow,Uttar Pradesh,2020-10-10,Current,Salaried
+1605,Sneha Joshi,58.0,Female,Pune,Maharashtra,2022-01-01,Savings,Business
+1549,Sneha Mishra,58.0,Female,Lucknow,Uttar Pradesh,2023-10-21,Current,Business
+1291,Rohit Iyer,24.0,Male,Chandigarh,Punjab,2023-03-21,Savings,Salaried
+1788,Rohit Mishra,54.0,Male,Bhopal,Madhya Pradesh,2021-03-04,Salary,Salaried
+1889,Divya Mehta,52.0,Male,Chandigarh,Punjab,2024-08-19,Current,Student
+1966,Kavya Mehta,55.0,Male,Bhopal,Madhya Pradesh,2020-07-21,Savings,Self-Employed
+1944,Arjun Mehta,45.0,Female,Jaipur,Rajasthan,2022-10-01,Savings,Student
+1742,Sneha Mishra,48.0,Female,Pune,Maharashtra,2021-01-25,Current,Student
+1807,Rahul Iyer,23.0,Male,Pune,Maharashtra,2022-08-14,Savings,Salaried
+1695,Sneha Iyer,38.0,Male,Bhopal,Madhya Pradesh,2022-06-16,Salary,Salaried
+1992,Ritu Reddy,23.0,Female,Chandigarh,Punjab,2024-11-03,Current,Self-Employed
+1310,Amit Tiwari,23.0,Female,Ahmedabad,Gujarat,2021-01-03,Savings,Self-Employed
+1087,Manish Verma,43.0,Female,Chandigarh,Punjab,2022-01-28,Savings,Student
+1729,Arjun Reddy,22.0,Female,Jaipur,Rajasthan,2022-11-13,Salary,Business
+1517,Rohit Rao,55.0,Female,Chandigarh,Punjab,2022-01-04,Salary,Student
+1311,Anita Kapoor,49.0,Female,Ahmedabad,Gujarat,2020-06-13,Salary,Business
+1537,Kavya Mishra,27.0,Female,Lucknow,Uttar Pradesh,2023-05-25,Salary,Business
+1137,Pooja Iyer,,Male,Pune,Maharashtra,2024-06-18,Savings,Student
+1873,Ritu Verma,45.0,Male,Chennai,Tamil Nadu,2023-11-26,Current,Salaried
+1466,Rahul Gupta,58.0,Male,Delhi,Delhi,2024-09-29,Salary,Student
+1847,Suresh Sharma,28.0,Male,Lucknow,Uttar Pradesh,2024-02-22,Savings,Self-Employed
+1262,Swati Malhotra,46.0,Male,Pune,Maharashtra,2022-11-20,Salary,Salaried
+1487,Vikram Singh,26.0,Female,Jaipur,Rajasthan,2022-04-27,Salary,Business
+1169,Sunita Dubey,25.0,Male,Pune,Maharashtra,2023-05-30,Savings,Salaried
+1830,Kavya Verma,44.0,Male,Mumbai,Maharashtra,2023-12-11,Salary,Student
+1448,Aakash Verma,40.0,Female,Bangalore,Karnataka,2020-03-04,Current,Self-Employed
+1140,Manish Gupta,35.0,Female,Chandigarh,Punjab,2021-06-04,Current,Student
+1740,Ritu Joshi,52.0,Female,Chandigarh,Punjab,2023-03-16,Savings,Business
+1665,Kiran Mehta,50.0,Male,Bhopal,Madhya Pradesh,2022-11-27,Current,Student
+1855,Meena Nair,42.0,Female,Chennai,Tamil Nadu,2024-07-01,Savings,Student
+1441,Aakash Gupta,46.0,Male,Lucknow,Uttar Pradesh,2023-03-08,Savings,Self-Employed
+1738,Vikram Reddy,,Female,Lucknow,Uttar Pradesh,2024-03-06,Savings,Self-Employed
+1532,Kiran Sharma,35.0,Male,Bhopal,Madhya Pradesh,2020-09-25,Savings,Salaried
+1056,Anita Kapoor,55.0,Female,Mumbai,Maharashtra,2020-08-24,Current,Business
+1121,Meena Verma,33.0,Female,Lucknow,Uttar Pradesh,2024-03-29,Current,Self-Employed
+1529,Neha Malhotra,40.0,Male,Delhi,Delhi,2022-02-24,Salary,Student
+1026,Manish Rao,-5.0,Male,Mumbai,Maharashtra,2020-05-25,Salary,Salaried
+1073,Vikram Gupta,35.0,Female,Bhopal,Madhya Pradesh,2020-11-08,Salary,Business
+1045,Sneha Singh,56.0,Male,Chennai,Tamil Nadu,2021-07-31,Salary,Business
+1250,Anita Malhotra,50.0,Male,Lucknow,Uttar Pradesh,2024-12-15,Savings,Salaried
+1395,Pooja Gupta,34.0,Male,Mumbai,Maharashtra,2023-03-13,Current,Student
+1914,Priya Singh,45.0,Female,Kolkata,West Bengal,2023-06-21,Savings,Student
+1900,Deepak Joshi,,Female,Hyderabad,Telangana,2021-11-18,Savings,Salaried
+1746,Kavya Dubey,51.0,Male,Pune,Maharashtra,2021-03-04,Salary,Business
+1199,Sanjay Iyer,38.0,Male,Pune,Maharashtra,2022-11-05,Savings,Student
+1906,Meena Verma,23.0,Female,Bhopal,Madhya Pradesh,2024-04-23,Salary,Salaried
+1356,Sneha Sharma,26.0,female,Jaipur,Rajasthan,2020-07-09,Salary,Student
+1324,Kiran Rao,37.0,Male,Pune,Maharashtra,2023-08-17,Savings,Self-Employed
+1977,Sanjay Kapoor,43.0,Female,Chandigarh,Punjab,2023-05-20,Current,Self-Employed
+1827,Vikram Gupta,49.0,Female,Ahmedabad,Gujarat,2023-06-14,Salary,Self-Employed
+1236,Anita Nair,26.0,Female,Delhi,Delhi,2022-05-31,Salary,Business
+1579,Kiran Mishra,41.0,Male,Mumbai,Maharashtra,2024-03-03,Current,Business
+1947,Pooja Tiwari,36.0,Male,Delhi,Delhi,2024-04-15,Current,Self-Employed
+1941,Pooja Mishra,47.0,Male,Lucknow,Uttar Pradesh,2023-05-09,Savings,Business
+1905,Rohit Mishra,58.0,Male,Lucknow,Uttar Pradesh,2020-11-01,Salary,Salaried
+1300,Suresh Malhotra,36.0,Male,Chandigarh,Punjab,2020-08-30,Current,Student
+1061,Nikhil Iyer,56.0,Male,Hyderabad,Telangana,2022-05-11,Salary,Self-Employed
+1328,Nikhil Joshi,46.0,Male,Jaipur,Rajasthan,2021-10-20,Current,Self-Employed
+1528,Rahul Reddy,54.0,Male,Mumbai,Maharashtra,00/00/0000,Savings,Business
+1600,Sanjay Gupta,40.0,Female,Mumbai,Maharashtra,2023-02-07,Salary,Business
+1542,Vikram Patel,53.0,Male,Bhopal,Madhya Pradesh,2024-01-21,Savings,Student
+1650,Rekha Kapoor,46.0,Male,Jaipur,Rajasthan,2020-02-01,Salary,Salaried
+1771,Deepak Mehta,48.0,Female,Lucknow,Uttar Pradesh,2020-04-21,Salary,Business
+1597,Swati Verma,25.0,Female,Jaipur,Rajasthan,2020-08-05,Current,Student
+1543,Sanjay Rao,50.0,Female,Chennai,Tamil Nadu,2022-08-08,Savings,Salaried
+1782,Divya Sharma,36.0,Female,Lucknow,Uttar Pradesh,2023-07-11,Salary,Business
+1306,Sneha Joshi,58.0,Female,Delhi,Delhi,2022-11-11,Current,Salaried
+1319,Neha Iyer,30.0,Male,Ahmedabad,Gujarat,2021-09-07,Current,Salaried
+1482,Vikram Verma,44.0,Male,Ahmedabad,Gujarat,2020-06-28,Current,Self-Employed
+1494,Sneha Mishra,30.0,Male,Lucknow,Uttar Pradesh,2023-04-19,Salary,Salaried
+1266,Kavya Tiwari,22.0,Male,Ahmedabad,Gujarat,2022-11-01,Current,Business
+1111,Meena Singh,55.0,Male,Chandigarh,Punjab,2020-11-01,Current,Business
+1469,Neha Mehta,45.0,female,Bhopal,Madhya Pradesh,2023-11-11,Current,Business
+1737,Divya Patel,35.0,Female,Chennai,Tamil Nadu,2024-05-29,Current,Business
+1526,Amit Gupta,60.0,Female,Chandigarh,Punjab,2022-05-29,Current,Self-Employed
+1257,Pooja Reddy,57.0,Male,Mumbai,Maharashtra,2020-06-15,Savings,Student
+1261,Deepak Joshi,42.0,Male,Pune,Maharashtra,2024-10-30,Salary,Student
+1545,Sneha Verma,21.0,Male,Chandigarh,Punjab,2023-08-18,Savings,Student
+1406,Sanjay Malhotra,37.0,Male,Pune,Maharashtra,2023-09-22,Salary,Business
+1429,Anita Mehta,37.0,Male,Lucknow,Uttar Pradesh,2023-10-12,Salary,Salaried
+1629,Amit Joshi,49.0,Female,Kolkata,West Bengal,2020-12-15,Savings,Self-Employed
+1502,Vikram Sharma,32.0,Male,Hyderabad,Telangana,2024-09-10,Savings,Business
+1433,Manish Malhotra,28.0,Male,Bangalore,Karnataka,2021-04-02,Salary,Salaried
+1732,Manish Joshi,25.0,Female,Kolkata,West Bengal,2020-12-20,Current,Salaried
+1138,Anita Malhotra,48.0,Male,Hyderabad,Telangana,2022-12-23,Current,Business
+1358,Manish Mehta,45.0,Male,Bangalore,Karnataka,2021-07-04,Current,Student
+1930,Anita Gupta,44.0,Female,Jaipur,Rajasthan,2020-11-28,Salary,Student
+1222,Nikhil Gupta,51.0,Female,Lucknow,Uttar Pradesh,2020-01-11,Savings,Salaried
+1754,Neha Nair,24.0,Female,Ahmedabad,Gujarat,2024-12-28,Savings,Student
+1595,Suresh Mishra,45.0,Female,Chandigarh,Punjab,2022-04-08,Current,Student
+1558,Rohit Singh,52.0,Male,Delhi,Delhi,2022-04-06,Current,Salaried
+1364,Rohit Iyer,52.0,Male,Pune,Maharashtra,2022-02-09,Current,Self-Employed
+1524,Amit Tiwari,42.0,Male,Pune,Maharashtra,2023-07-23,Savings,Salaried
+1209,Sanjay Mishra,53.0,Female,Mumbai,Maharashtra,2022-01-12,Current,Business
+1779,Sanjay Mehta,28.0,Male,Hyderabad,Telangana,2020-01-08,Salary,Student
+1335,Pooja Verma,54.0,Male,Delhi,Delhi,2024-08-02,Salary,Salaried
+1211,Kavya Singh,53.0,Male,Chandigarh,Punjab,2021-11-20,Salary,Business
+1351,Deepak Tiwari,35.0,Female,Jaipur,Rajasthan,2022-02-07,Current,Business
+1079,Kiran Sharma,26.0,Female,Bangalore,Karnataka,2024-11-10,Current,Business
+1030,Anita Mishra,47.0,Female,Bhopal,Madhya Pradesh,2020-04-20,Salary,Salaried
+1281,Rekha Tiwari,,Female,Pune,Maharashtra,2020-12-20,Current,Student
+1508,Rekha Sharma,51.0,Male,Chandigarh,Punjab,2020-12-20,Salary,Salaried
+1653,Meena Singh,56.0,Male,Jaipur,Rajasthan,2021-08-25,Current,Salaried
+1948,Amit Malhotra,58.0,Female,Lucknow,Uttar Pradesh,2022-06-12,Current,Self-Employed
+1290,Ritu Mehta,47.0,Female,Kolkata,West Bengal,2023-08-25,Savings,Student
+1166,Swati Patel,51.0,Female,Pune,Maharashtra,2022-11-17,Salary,Salaried
+1762,Divya Rao,,Male,Hyderabad,Telangana,2023-11-08,Savings,Student
+1498,Anita Sharma,42.0,Female,Chennai,Tamil Nadu,2021-07-28,Current,Salaried
+1463,Manish Joshi,52.0,Female,Bangalore,Karnataka,2022-10-01,Savings,Salaried
+1066,Neha Tiwari,60.0,Male,Kolkata,West Bengal,2022-04-28,Salary,Business
+1142,Deepak Malhotra,58.0,Female,Chandigarh,Punjab,2022-05-18,Salary,Student
+1276,Rohit Singh,47.0,Female,Bhopal,Madhya Pradesh,2024-11-21,Salary,Salaried
+1833,Rekha Mehta,51.0,Male,Hyderabad,Telangana,2023-02-11,Current,Student
+1583,Vikram Mehta,58.0,Female,Mumbai,Maharashtra,2021-11-07,Current,Business
+1465,Rohit Joshi,29.0,Female,Bhopal,Madhya Pradesh,2020-12-29,Current,Salaried
+1669,Anita Kapoor,38.0,Female,Bangalore,Karnataka,2023-03-16,Savings,Business
+1320,Ritu Mehta,,Female,Mumbai,Maharashtra,2021-12-06,Salary,Self-Employed
+1716,Sanjay Reddy,28.0,Male,Jaipur,Rajasthan,2023-09-11,Savings,Salaried
+1307,Deepak Gupta,53.0,female,Kolkata,West Bengal,2023-02-28,Savings,Self-Employed
+1308,Rekha Iyer,22.0,Female,Chennai,Tamil Nadu,2024-07-30,Savings,Business
+1826,Rohit Tiwari,24.0,Male,Hyderabad,Telangana,2024-07-31,Savings,Salaried
+1334,Deepak Mehta,43.0,Male,Bangalore,Karnataka,2024-01-15,Salary,Self-Employed
+1050,Meena Gupta,23.0,Female,Pune,Maharashtra,2024-06-18,Savings,Student
+1731,Manish Rao,35.0,Female,Chennai,Tamil Nadu,2020-07-07,Salary,Self-Employed
+1003,Neha Sharma,56.0,Male,Bhopal,Madhya Pradesh,2023-08-23,Salary,Self-Employed
+1786,Priya Patel,40.0,Female,Pune,Maharashtra,2022-02-15,Savings,Self-Employed
+1353,Suresh Gupta,45.0,Male,Bhopal,Madhya Pradesh,2022-03-08,Current,Student
+1910,Manish Sharma,50.0,Female,Bangalore,Karnataka,2024-11-25,Salary,Self-Employed
+1539,Arjun Joshi,37.0,Male,Pune,Maharashtra,2023-12-11,Current,Student
+1347,Pooja Reddy,22.0,Male,Lucknow,Uttar Pradesh,2020-10-22,Salary,Self-Employed
+1522,Rekha Kapoor,,Female,Ahmedabad,Gujarat,2020-04-20,Savings,Business
+1484,Sunita Singh,40.0,Female,Kolkata,West Bengal,2022-09-28,Salary,Student
+1661,Neha Malhotra,,Male,Delhi,Delhi,2020-06-09,Salary,Self-Employed
+1034,Meena Tiwari,51.0,Male,Ahmedabad,Gujarat,2020-04-30,Savings,Self-Employed
+1032,Vikram Mishra,32.0,Female,Kolkata,West Bengal,2021-05-26,Savings,Self-Employed
+1232,Priya Iyer,33.0,Male,Hyderabad,Telangana,2024-12-19,Savings,Student
+1752,Ritu Sharma,23.0,Male,Jaipur,Rajasthan,2021-09-16,Current,Self-Employed
+1193,Nikhil Malhotra,26.0,Female,Delhi,Delhi,2021-05-13,Current,Self-Employed
+1514,Arjun Gupta,,Male,Mumbai,Maharashtra,2024-07-07,Salary,Self-Employed
+1004,Neha Dubey,58.0,Female,Mumbai,Maharashtra,2024-04-03,Savings,Self-Employed
+1205,Rekha Verma,42.0,Male,Pune,Maharashtra,2020-07-12,Salary,Self-Employed
+1434,Kiran Patel,50.0,Female,Chennai,Tamil Nadu,2021-11-01,Savings,Self-Employed
+1808,Aakash Iyer,22.0,Female,Chandigarh,Punjab,2021-03-05,Current,Business
+1985,Sunita Mishra,29.0,Female,Bhopal,Madhya Pradesh,2022-03-07,Current,Salaried
+1110,Nikhil Iyer,50.0,Male,Chandigarh,Punjab,2021-04-23,Current,Business
+1942,Arjun Iyer,51.0,Female,Delhi,Delhi,2023-04-24,Current,Salaried
+1078,Rekha Kapoor,31.0,Female,Bangalore,Karnataka,2023-06-28,Salary,Salaried
+1085,Pooja Iyer,27.0,Male,Chennai,Tamil Nadu,2023-03-25,Salary,Self-Employed
+1589,Priya Reddy,45.0,Male,Ahmedabad,Gujarat,2021-06-09,Salary,Student
+1083,Divya Gupta,36.0,Male,Kolkata,West Bengal,2023-10-03,Savings,Business
+1255,Anita Iyer,26.0,Female,Hyderabad,Telangana,2023-07-24,Salary,Student
+1924,Meena Reddy,41.0,Female,Lucknow,Uttar Pradesh,2023-09-25,Salary,Self-Employed
+1409,Rahul Sharma,42.0,Male,Ahmedabad,Gujarat,2023-11-22,Savings,Self-Employed
+1654,Aakash Nair,55.0,Female,Bhopal,Madhya Pradesh,2022-06-25,Current,Self-Employed
+1522,Rekha Kapoor,,Female,Ahmedabad,Gujarat,2020-04-20,Savings,Business
+1920,Deepak Patel,26.0,Female,Bangalore,Karnataka,2021-08-13,Savings,Salaried
+1437,Vikram Sharma,47.0,Male,Hyderabad,Telangana,2023-01-14,Current,Salaried
+1006,Sneha Malhotra,43.0,Female,Mumbai,Maharashtra,2024-02-03,Current,Salaried
+1405,Meena Joshi,29.0,Female,Bangalore,Karnataka,2024-11-25,Current,Salaried
+1468,Pooja Mishra,52.0,Female,Bangalore,Karnataka,2023-12-19,Salary,Student
+1098,Sneha Joshi,41.0,Male,Bhopal,Madhya Pradesh,2023-01-02,Salary,Business
+1560,Rohit Malhotra,24.0,Male,Kolkata,West Bengal,2021-11-10,Salary,Self-Employed
+1360,Sunita Patel,44.0,Female,Hyderabad,Telangana,2024-01-16,Salary,Self-Employed
+1874,Sanjay Malhotra,52.0,Male,Chandigarh,Punjab,2022-06-15,Salary,Business
+1267,Arjun Malhotra,24.0,Male,Chennai,Tamil Nadu,2022-10-10,Salary,Self-Employed
+1678,Neha Reddy,41.0,Female,Bhopal,Madhya Pradesh,2021-07-01,Salary,Self-Employed
+1383,Manish Singh,43.0,Female,Kolkata,West Bengal,2023-06-18,Savings,Student
+1694,Arjun Reddy,22.0,Male,Mumbai,Maharashtra,2022-12-31,Savings,Business
+1412,Amit Sharma,,Male,Kolkata,West Bengal,2021-12-20,Salary,Business
+1887,Pooja Patel,58.0,Female,Ahmedabad,Gujarat,2023-11-21,Current,Business
+1119,Rekha Kapoor,56.0,Male,Kolkata,West Bengal,2020-06-29,Current,Student
+1431,Kiran Gupta,32.0,Male,Jaipur,Rajasthan,2024-07-02,Salary,Self-Employed
+1251,Kavya Kapoor,51.0,Female,Ahmedabad,Gujarat,2024-08-13,Salary,Salaried
+1343,Amit Kapoor,45.0,Female,Jaipur,Rajasthan,2022-09-01,Savings,Salaried
+1010,Rekha Nair,25.0,Male,Jaipur,Rajasthan,2024-02-02,Savings,Business
+1197,Divya Gupta,25.0,Male,Chandigarh,Punjab,00/00/0000,Current,Self-Employed
+1946,Suresh Iyer,51.0,Male,Chandigarh,Punjab,2023-09-25,Current,Self-Employed
+1082,Anita Rao,25.0,Male,Mumbai,Maharashtra,2021-05-21,Savings,Salaried
+1913,Rekha Patel,60.0,Female,Bhopal,Madhya Pradesh,2020-04-22,Salary,Student
+1479,Nikhil Sharma,48.0,Male,Lucknow,Uttar Pradesh,2024-12-27,Current,Business
+1697,Kavya Tiwari,44.0,Female,Bhopal,Madhya Pradesh,2024-06-08,Savings,Student
+1240,Rekha Kapoor,44.0,Male,Mumbai,Maharashtra,2020-10-19,Salary,Self-Employed
+1293,Swati Iyer,23.0,Male,Chennai,Tamil Nadu,2023-03-09,Salary,Salaried
+1212,Divya Kapoor,30.0,Male,Bangalore,Karnataka,00/00/0000,Salary,Business
+1722,Swati Rao,55.0,Female,Hyderabad,Telangana,2021-01-30,Salary,Business
+1362,Rohit Kapoor,42.0,Female,Pune,Maharashtra,2022-05-31,Salary,Business
+1452,Sanjay Dubey,29.0,Male,Pune,Maharashtra,2020-09-07,Savings,Self-Employed
+1228,Kiran Tiwari,23.0,Female,Pune,Maharashtra,2021-06-03,Salary,Salaried
+1862,Sanjay Dubey,38.0,Female,Bhopal,Madhya Pradesh,2023-09-29,Current,Student
+1363,Kavya Reddy,59.0,Male,Kolkata,West Bengal,2021-10-05,Savings,Self-Employed
+1802,Amit Tiwari,36.0,Female,Kolkata,West Bengal,2024-08-25,Current,Business
+1658,Kavya Patel,46.0,Female,Delhi,Delhi,2023-02-09,Savings,Self-Employed
+1708,Vikram Tiwari,35.0,Female,Jaipur,Rajasthan,2024-06-02,Salary,Student
+1645,Amit Gupta,51.0,Female,Delhi,Delhi,2020-05-11,Current,Business
+1582,Pooja Singh,45.0,Male,Ahmedabad,Gujarat,2021-07-25,Salary,Student
+1938,Rekha Malhotra,46.0,Male,Bhopal,Madhya Pradesh,2024-10-14,Current,Student
+1371,Rohit Mishra,27.0,Male,Delhi,Delhi,2021-06-13,Savings,Business
+1008,Nikhil Patel,23.0,Male,Chennai,Tamil Nadu,2020-06-12,Savings,Salaried
+1156,Sunita Singh,27.0,Male,Jaipur,Rajasthan,2020-10-04,Current,Self-Employed
+1544,Pooja Verma,39.0,Female,Chandigarh,Punjab,2021-10-02,Current,Salaried
+1443,Nikhil Reddy,41.0,Female,Chennai,Tamil Nadu,2021-04-23,Savings,Business
+1916,Rohit Rao,55.0,Male,Chandigarh,Punjab,2022-09-06,Salary,Business
+1399,Manish Nair,47.0,Female,Kolkata,West Bengal,2020-06-03,Salary,Salaried
+1961,Arjun Singh,23.0,Male,Kolkata,West Bengal,2020-08-31,Current,Salaried
+1569,Aakash Kapoor,47.0,Male,Chennai,Tamil Nadu,2022-03-25,Current,Student
+1592,Arjun Joshi,48.0,Male,Hyderabad,Telangana,2023-01-06,Salary,Self-Employed
+1581,Swati Joshi,39.0,Female,Bangalore,Karnataka,2023-10-30,Savings,Business
+1940,Ritu Patel,34.0,Female,Bhopal,Madhya Pradesh,2022-05-01,Current,Student
+1696,Neha Patel,30.0,Male,Kolkata,West Bengal,2021-03-20,Current,Self-Employed
+1868,Priya Kapoor,38.0,Male,Bhopal,Madhya Pradesh,2021-11-06,Current,Salaried
+1533,Manish Mehta,28.0,Female,Bhopal,Madhya Pradesh,2023-08-25,Savings,Self-Employed
+1586,Aakash Mehta,47.0,Female,Delhi,Delhi,2021-12-16,Savings,Business
+1712,Divya Mehta,25.0,Male,Kolkata,West Bengal,2021-08-28,Current,Student
+1451,Rekha Patel,58.0,Female,Delhi,Delhi,2020-02-14,Savings,Business
+1881,Deepak Mehta,58.0,Male,Delhi,Delhi,2020-08-21,Current,Business
+1229,Anita Patel,43.0,Male,Bhopal,Madhya Pradesh,2023-09-07,Salary,Salaried
+1591,Rohit Patel,27.0,Male,Jaipur,Rajasthan,2022-12-28,Savings,Salaried
+1733,Divya Iyer,23.0,Female,Delhi,Delhi,2024-05-16,Savings,Student
+1213,Swati Dubey,23.0,Female,Pune,Maharashtra,2023-10-17,Salary,Business
+1080,Priya Nair,45.0,Female,Hyderabad,Telangana,2022-07-20,Current,Student
+1149,Arjun Gupta,55.0,Female,Jaipur,Rajasthan,2022-10-24,Current,Business
+1303,Meena Tiwari,55.0,Male,Hyderabad,Telangana,2023-10-25,Salary,Salaried
+1917,Swati Rao,41.0,Female,Chennai,Tamil Nadu,2022-10-28,Salary,Self-Employed
+1329,Deepak Malhotra,40.0,Female,Pune,Maharashtra,2022-11-16,Current,Self-Employed
+1929,Suresh Malhotra,32.0,Male,Jaipur,Rajasthan,2023-12-19,Savings,Student
+1345,Aakash Verma,35.0,Male,Bhopal,Madhya Pradesh,2024-12-22,Salary,Self-Employed
+1546,Anita Dubey,60.0,Female,Bhopal,Madhya Pradesh,2020-07-09,Current,Student
+1507,Neha Rao,34.0,Female,Chandigarh,Punjab,2022-04-18,Salary,Salaried
+1134,Sanjay Patel,42.0,Female,Pune,Maharashtra,2023-07-07,Salary,Self-Employed
+1553,Meena Rao,51.0,Female,Chandigarh,Punjab,2023-10-17,Salary,Self-Employed
+1312,Sanjay Malhotra,28.0,Male,Jaipur,Rajasthan,2022-03-15,Salary,Business
+2000,Meena Reddy,33.0,Female,Ahmedabad,Gujarat,2021-05-29,Salary,Self-Employed
+1568,Swati Gupta,27.0,Female,Chandigarh,Punjab,2023-05-14,Salary,Student
+1001,Sanjay Singh,22.0,Female,Hyderabad,Telangana,2021-04-02,Savings,Salaried
+1317,Neha Verma,46.0,Female,Hyderabad,Telangana,2023-01-10,Savings,Salaried
+1711,Manish Mehta,55.0,Female,Pune,Maharashtra,2024-02-08,Current,Student
+1550,Divya Kapoor,43.0,Male,Chandigarh,Punjab,2024-12-07,Salary,Business
+1618,Amit Nair,44.0,Male,Mumbai,Maharashtra,2023-10-01,Savings,Student
+1535,Sanjay Sharma,24.0,Male,Ahmedabad,Gujarat,2022-06-28,Current,Salaried
+1480,Priya Singh,42.0,Male,Hyderabad,Telangana,2022-04-18,Salary,Student
+1778,Nikhil Verma,47.0,Female,Chennai,Tamil Nadu,2024-02-04,Current,Student
+1173,Meena Singh,41.0,Female,,Maharashtra,2023-09-24,Current,Student
+1126,Neha Dubey,56.0,Male,Ahmedabad,Gujarat,2021-01-25,Salary,Business
+1425,Nikhil Sharma,31.0,Female,Pune,Maharashtra,2022-12-07,Salary,Student
+1423,Kavya Mishra,36.0,Male,Hyderabad,Telangana,2020-06-25,Current,Salaried
+1555,Pooja Patel,52.0,Female,Hyderabad,Telangana,2021-11-08,Current,Salaried
+1909,Sanjay Patel,22.0,Female,Chandigarh,Punjab,2021-09-16,Savings,Self-Employed
+1091,Neha Patel,38.0,Female,Hyderabad,Telangana,2024-03-16,Current,Self-Employed
+1945,Manish Iyer,52.0,Female,Hyderabad,Telangana,2020-02-24,Savings,Business
+1182,Vikram Sharma,26.0,Male,Ahmedabad,Gujarat,2022-05-09,Current,Student
+1275,Aakash Tiwari,57.0,Female,Kolkata,West Bengal,2024-07-28,Savings,Student
+1901,Nikhil Verma,38.0,Male,Delhi,Delhi,2024-10-10,Current,Self-Employed
+1070,Deepak Mishra,56.0,Female,Bangalore,Karnataka,2024-03-03,Current,Self-Employed
+1292,Pooja Mishra,32.0,Male,Ahmedabad,Gujarat,2024-06-01,Current,Business
+1132,Sneha Dubey,27.0,Female,Mumbai,Maharashtra,2024-01-19,Savings,Self-Employed
+1301,Pooja Kapoor,53.0,Female,Bhopal,Madhya Pradesh,2020-08-28,Salary,Student
+1584,Priya Gupta,41.0,Male,Chandigarh,Punjab,2023-06-14,Salary,Student
+1327,Rahul Joshi,33.0,Male,Bhopal,Madhya Pradesh,2024-03-24,Current,Business
+1145,Suresh Sharma,57.0,Male,Lucknow,Uttar Pradesh,2024-03-06,Current,Student
+1426,Pooja Malhotra,29.0,Female,Bhopal,Madhya Pradesh,2024-12-20,Savings,Salaried
+1585,Sunita Malhotra,25.0,Female,Jaipur,Rajasthan,2021-03-26,Savings,Salaried
+1136,Neha Patel,48.0,Male,Chandigarh,Punjab,2023-12-12,Savings,Self-Employed
+1667,Anita Nair,32.0,Female,Hyderabad,Telangana,00/00/0000,Current,Student
+1165,Rahul Mehta,37.0,Male,Bangalore,Karnataka,2024-02-28,Current,Salaried
+1029,Neha Tiwari,47.0,Male,Delhi,Delhi,2020-07-17,Salary,Self-Employed
+1936,Suresh Joshi,22.0,Male,Jaipur,Rajasthan,2024-10-05,Current,Salaried
+1194,Aakash Patel,46.0,Female,Bhopal,Madhya Pradesh,2021-11-26,Savings,Student
+1996,Sanjay Patel,55.0,Male,Chennai,Tamil Nadu,2021-06-27,Savings,Student
+1750,Sneha Sharma,39.0,Female,Hyderabad,Telangana,2022-02-18,Salary,Salaried
+1170,Vikram Nair,60.0,Female,Ahmedabad,Gujarat,2023-05-08,Salary,Student
+1491,Priya Mishra,26.0,Female,Hyderabad,Telangana,2024-08-11,Salary,Business
+1141,Rekha Sharma,50.0,Female,Chandigarh,Punjab,2023-01-24,Savings,Salaried
+1174,Vikram Tiwari,25.0,Male,Delhi,Delhi,2020-07-09,Current,Salaried
+1007,Kiran Patel,56.0,Female,Chandigarh,Punjab,2023-06-20,Current,Business
+1804,Amit Dubey,53.0,Male,Kolkata,West Bengal,00/00/0000,Savings,Business
+1636,Meena Gupta,37.0,Female,Hyderabad,Telangana,2024-10-25,Savings,Student
+1074,Amit Mishra,47.0,Female,Jaipur,Rajasthan,2022-08-12,Current,Salaried
+1688,Aakash Gupta,43.0,Female,Kolkata,West Bengal,2022-12-31,Savings,Self-Employed
+1982,Sunita Nair,55.0,Female,Jaipur,Rajasthan,2023-01-24,Savings,Salaried
+1239,Deepak Verma,43.0,Female,Chennai,Tamil Nadu,2023-08-02,Savings,Salaried
+1146,Neha Malhotra,35.0,Male,Lucknow,Uttar Pradesh,2021-05-28,Salary,Business
+1797,Sanjay Gupta,51.0,Male,Chandigarh,Punjab,2022-08-01,Salary,Student
+1235,Kiran Dubey,45.0,Female,Bangalore,Karnataka,2022-10-13,Salary,Self-Employed
+1221,Rohit Singh,42.0,Male,Bangalore,Karnataka,2020-03-19,Current,Self-Employed
+1478,Pooja Patel,56.0,Male,Pune,Maharashtra,2023-05-01,Salary,Self-Employed
+1838,Swati Rao,53.0,Female,Ahmedabad,Gujarat,2023-01-23,Salary,Student
+1133,Sanjay Gupta,25.0,Female,Chennai,Tamil Nadu,2021-11-24,Salary,Self-Employed
+1997,Manish Kapoor,35.0,Male,Bhopal,Madhya Pradesh,2024-09-24,Salary,Salaried
+1843,Anita Iyer,39.0,Male,Mumbai,Maharashtra,2023-11-24,Salary,Student
+1186,Anita Mishra,28.0,Female,Chandigarh,Punjab,2023-10-21,Salary,Self-Employed
+1042,Deepak Singh,25.0,Male,Jaipur,Rajasthan,2021-06-27,Savings,Student
+1998,Manish Reddy,38.0,Male,Lucknow,Uttar Pradesh,2024-06-28,Salary,Self-Employed
+1109,Rahul Mishra,49.0,Female,Chennai,Tamil Nadu,2020-03-07,Savings,Student
+1871,Manish Malhotra,42.0,Female,,Gujarat,2020-04-23,Salary,Salaried
+1057,Manish Nair,23.0,Male,Lucknow,Uttar Pradesh,2022-06-08,Current,Student
+1531,Meena Gupta,42.0,Female,Pune,Maharashtra,2024-03-16,Savings,Business
+1923,Swati Sharma,39.0,Male,Delhi,Delhi,2020-02-15,Savings,Student
+1604,Ritu Dubey,56.0,male,Chennai,Tamil Nadu,2023-10-07,Savings,Student
+1866,Divya Singh,49.0,Female,Delhi,Delhi,2020-03-12,Savings,Salaried
+1025,Aakash Dubey,28.0,Male,Hyderabad,Telangana,2020-05-11,Current,Salaried
+1651,Amit Iyer,56.0,Female,Pune,Maharashtra,2024-07-28,Current,Business
+1449,Ritu Rao,27.0,Female,Delhi,Delhi,2024-07-04,Savings,Salaried
+1534,Sanjay Nair,55.0,Male,Lucknow,Uttar Pradesh,2020-04-08,Salary,Salaried
+1623,Deepak Mehta,35.0,Male,Jaipur,Rajasthan,2023-08-10,Current,Business
+1753,Kiran Mehta,22.0,Female,Chandigarh,Punjab,2021-12-21,Current,Student
+1932,Rahul Reddy,39.0,Female,Chennai,Tamil Nadu,2024-03-24,Salary,Business
+1339,Rahul Nair,55.0,Female,Mumbai,Maharashtra,2022-10-25,Salary,Self-Employed
+1052,Neha Mehta,32.0,Female,Mumbai,Maharashtra,2021-01-02,Salary,Student
+1668,Anita Mehta,52.0,Female,Hyderabad,Telangana,2022-05-08,Salary,Student
+1519,Swati Mehta,42.0,Male,Hyderabad,Telangana,2021-12-28,Savings,Student
+1926,Sunita Malhotra,39.0,Male,Bangalore,Karnataka,2021-12-24,Current,Self-Employed
+1637,Divya Mishra,,Male,Mumbai,Maharashtra,2023-12-23,Salary,Salaried
+1265,Rohit Reddy,33.0,Male,,West Bengal,2022-11-20,Current,Self-Employed
+1540,Pooja Verma,56.0,Female,Hyderabad,Telangana,2023-11-10,Current,Student
+1715,Aakash Tiwari,56.0,Male,Lucknow,Uttar Pradesh,2021-08-02,Current,Self-Employed
+1959,Nikhil Rao,40.0,Male,Hyderabad,Telangana,2020-09-23,Savings,Self-Employed
+1952,Aakash Joshi,32.0,Male,Lucknow,Uttar Pradesh,2024-03-21,Savings,Student
+1894,Meena Nair,42.0,Female,Mumbai,Maharashtra,2020-08-01,Salary,Salaried
+1450,Rahul Verma,35.0,Male,Hyderabad,Telangana,2024-08-13,Current,Student
+1019,Swati Nair,53.0,Male,Jaipur,Rajasthan,2020-08-05,Salary,Student
+1897,Neha Singh,41.0,Male,Delhi,Delhi,2021-04-30,Salary,Self-Employed
+1486,Priya Nair,49.0,Female,Chennai,Tamil Nadu,2021-04-08,Current,Salaried
+1571,Nikhil Reddy,56.0,Male,Hyderabad,Telangana,2021-03-05,Salary,Student
+1412,Amit Sharma,,Male,Kolkata,West Bengal,2021-12-20,Salary,Business
+1368,Nikhil Mishra,45.0,Male,Kolkata,West Bengal,2023-05-09,Current,Self-Employed
+1084,Deepak Nair,44.0,Male,Lucknow,Uttar Pradesh,2023-05-28,Salary,Salaried
+1062,Rekha Mehta,60.0,Female,Ahmedabad,Gujarat,2023-01-27,Savings,Student
+1440,Neha Mishra,44.0,Female,Bhopal,Madhya Pradesh,2020-06-22,Salary,Salaried
+1273,Vikram Reddy,51.0,Female,Bangalore,Karnataka,2023-05-26,Salary,Business
+1286,Anita Dubey,37.0,Female,Hyderabad,Telangana,2021-02-17,Salary,Student
+1361,Divya Joshi,50.0,Male,Bangalore,Karnataka,2021-09-15,Savings,Self-Employed
+1355,Vikram Patel,32.0,Female,Kolkata,West Bengal,2023-02-14,Salary,Self-Employed
+1993,Suresh Sharma,51.0,Male,Pune,Maharashtra,2022-02-12,Salary,Self-Employed
+1279,Arjun Sharma,49.0,Female,Ahmedabad,Gujarat,2020-11-06,Current,Business
+1013,Arjun Tiwari,46.0,Female,Bangalore,Karnataka,2021-06-26,Savings,Business
+1183,Pooja Malhotra,40.0,Female,Lucknow,Uttar Pradesh,2023-05-06,Savings,Salaried
+1369,Ritu Mishra,55.0,Male,Pune,Maharashtra,2023-12-07,Salary,Salaried
+1495,Sneha Singh,39.0,Female,Ahmedabad,Gujarat,2021-06-24,Current,Self-Employed
+1801,Divya Singh,40.0,Female,Bhopal,Madhya Pradesh,2020-03-05,Current,Self-Employed
+1224,Kavya Singh,24.0,Male,Ahmedabad,Gujarat,2023-08-01,Salary,Self-Employed
+1576,Rekha Nair,30.0,Male,Bhopal,Madhya Pradesh,2024-05-25,Current,Business
+1704,Rohit Sharma,31.0,Female,Lucknow,Uttar Pradesh,2020-09-02,Current,Business
+1588,Ritu Sharma,28.0,Female,Kolkata,West Bengal,2021-05-07,Salary,Business
+1548,Meena Mehta,28.0,Male,Bhopal,Madhya Pradesh,2024-01-27,Savings,Business
+1676,Swati Dubey,26.0,Female,Lucknow,Uttar Pradesh,2021-08-09,Current,Business
+1756,Aakash Rao,47.0,Male,Lucknow,Uttar Pradesh,2020-11-08,Current,Student
+1177,Kavya Iyer,43.0,male,Lucknow,Uttar Pradesh,2022-11-05,Savings,Business
+1670,Sneha Nair,36.0,Female,Ahmedabad,Gujarat,2021-02-05,Savings,Business
+1632,Sneha Sharma,33.0,Female,Bangalore,Karnataka,2023-05-25,Savings,Business
+1590,Rahul Malhotra,53.0,Female,Kolkata,West Bengal,2020-03-30,Current,Business
+1523,Arjun Reddy,-5.0,Female,Bangalore,Karnataka,2021-10-09,Salary,Business
+1394,Sneha Rao,34.0,Female,,Madhya Pradesh,2023-06-03,Salary,Self-Employed
+1164,Sneha Sharma,29.0,Male,Pune,Maharashtra,2024-06-05,Savings,Student
+1249,Anita Rao,28.0,Male,Bangalore,Karnataka,2021-04-29,Current,Salaried
+1639,Meena Malhotra,27.0,Male,Ahmedabad,Gujarat,2023-08-27,Salary,Student
+1891,Divya Malhotra,55.0,Male,Kolkata,West Bengal,2024-04-26,Salary,Business
+1674,Suresh Malhotra,44.0,Female,Pune,Maharashtra,2020-02-10,Current,Salaried
+1376,Amit Iyer,23.0,Male,Mumbai,Maharashtra,2024-10-05,Current,Salaried
+1413,Sanjay Gupta,47.0,Female,Hyderabad,Telangana,2020-06-26,Savings,Business
+1075,Arjun Mishra,45.0,Male,Lucknow,Uttar Pradesh,2022-02-18,Current,Salaried
+1114,Deepak Patel,59.0,Male,Ahmedabad,Gujarat,2024-02-13,Current,Student
+1573,Nikhil Singh,43.0,Female,Lucknow,Uttar Pradesh,2023-03-14,Salary,Self-Employed
+1644,Aakash Kapoor,42.0,Male,Bangalore,Karnataka,2022-03-07,Salary,Salaried
+1391,Deepak Tiwari,56.0,Male,Lucknow,Uttar Pradesh,2020-08-21,Current,Student
+1105,Vikram Gupta,57.0,Female,Delhi,Delhi,2021-05-23,Savings,Self-Employed
+1115,Rahul Patel,35.0,Male,Chandigarh,Punjab,2024-08-09,Current,Salaried
+1418,Anita Reddy,29.0,Female,Lucknow,Uttar Pradesh,2022-05-11,Current,Business
+1713,Deepak Sharma,53.0,Female,Bhopal,Madhya Pradesh,2021-01-14,Savings,Student
+1458,Sunita Tiwari,43.0,Female,Ahmedabad,Gujarat,2021-07-07,Savings,Salaried
+1410,Amit Rao,45.0,Male,Bhopal,Madhya Pradesh,2024-07-08,Savings,Salaried
+1093,Suresh Reddy,38.0,Female,Jaipur,Rajasthan,2020-01-21,Salary,Business
+1955,Rohit Mehta,27.0,Male,Bangalore,Karnataka,2022-10-27,Savings,Business
+1090,Divya Tiwari,50.0,Female,Bhopal,Madhya Pradesh,2023-04-28,Current,Student
+1337,Arjun Dubey,44.0,Male,Lucknow,Uttar Pradesh,2023-07-30,Salary,Self-Employed
+1995,Sunita Reddy,31.0,Female,Pune,Maharashtra,2022-06-11,Savings,Self-Employed
+1927,Pooja Mehta,55.0,Female,Bangalore,Karnataka,2020-12-25,Salary,Business
+1939,Kiran Malhotra,,female,Pune,Maharashtra,2021-12-20,Current,Self-Employed
+1902,Meena Mehta,42.0,Male,Chennai,Tamil Nadu,2023-05-21,Savings,Business
+1598,Divya Patel,39.0,Female,Ahmedabad,Gujarat,2022-03-20,Salary,Salaried
+1616,Aakash Gupta,49.0,Male,Bangalore,Karnataka,2023-03-05,Salary,Business
+1095,Sanjay Tiwari,49.0,Male,Delhi,Delhi,2021-08-25,Savings,Self-Employed
+1012,Priya Reddy,46.0,Female,Delhi,Delhi,2021-03-08,Salary,Student
+1397,Vikram Mishra,24.0,Female,Chandigarh,Punjab,2020-09-16,Salary,Business
+1536,Ritu Nair,51.0,Male,Hyderabad,Telangana,2023-11-24,Salary,Salaried
+1044,Divya Sharma,56.0,Female,Chandigarh,Punjab,2020-07-31,Savings,Student
+1043,Amit Rao,44.0,Female,Bangalore,Karnataka,2022-06-16,Salary,Student
+1330,Sneha Tiwari,41.0,Male,Pune,Maharashtra,2021-10-02,Current,Salaried
+1168,Deepak Sharma,24.0,Female,Ahmedabad,Gujarat,2022-05-23,Salary,Salaried
+1500,Divya Patel,33.0,Female,Hyderabad,Telangana,2024-08-14,Current,Self-Employed
+1882,Amit Joshi,48.0,Female,Bhopal,Madhya Pradesh,2023-10-21,Current,Student
+1602,Arjun Malhotra,34.0,Female,Chandigarh,Punjab,2024-10-09,Salary,Business
+1761,Vikram Joshi,27.0,Male,Bangalore,Karnataka,2020-02-23,Salary,Student
+1101,Nikhil Gupta,38.0,Male,,Maharashtra,2023-02-07,Current,Business
+1427,Rohit Mishra,38.0,Male,Chennai,Tamil Nadu,2023-12-29,Salary,Salaried
+1179,Sneha Nair,57.0,Male,Ahmedabad,Gujarat,2024-09-26,Salary,Salaried
+1445,Meena Singh,55.0,Female,Hyderabad,Telangana,2022-07-14,Current,Self-Employed
+1417,Kiran Singh,36.0,Female,Chandigarh,Punjab,2023-05-01,Savings,Salaried
+1766,Arjun Patel,32.0,Female,Lucknow,Uttar Pradesh,2022-09-30,Salary,Student
+1888,Arjun Gupta,38.0,Female,Ahmedabad,Gujarat,2021-05-04,Savings,Salaried
+1663,Sunita Nair,52.0,Male,Jaipur,Rajasthan,2021-07-27,Current,Business
+1178,Rekha Tiwari,35.0,Male,Pune,Maharashtra,2024-09-27,Salary,Student
+1396,Divya Mehta,41.0,Female,Chennai,Tamil Nadu,00/00/0000,Current,Salaried
+1681,Sneha Patel,51.0,Male,Mumbai,Maharashtra,2024-04-27,Current,Salaried
+1799,Ritu Sharma,34.0,Female,Pune,Maharashtra,2020-05-15,Savings,Student
+1967,Anita Mehta,49.0,Male,Bangalore,Karnataka,2024-09-05,Current,Self-Employed
+1689,Sunita Iyer,21.0,Female,Chennai,Tamil Nadu,2023-05-07,Savings,Salaried
+1384,Divya Patel,29.0,Female,Delhi,Delhi,2021-05-03,Current,Salaried
+1963,Pooja Malhotra,22.0,Male,Bangalore,Karnataka,2024-09-28,Salary,Student
+1617,Swati Tiwari,43.0,Male,Hyderabad,Telangana,2024-04-08,Current,Business
+1258,Sanjay Joshi,57.0,Female,Lucknow,Uttar Pradesh,2023-08-01,Savings,Self-Employed
+1336,Rahul Mishra,29.0,Male,Delhi,Delhi,00/00/0000,Savings,Salaried
+1016,Rekha Mishra,59.0,Male,Ahmedabad,Gujarat,2022-02-20,Salary,Self-Employed
+1634,Divya Sharma,48.0,Female,Pune,Maharashtra,2024-11-26,Savings,Self-Employed
+1325,Anita Patel,55.0,Male,Mumbai,Maharashtra,2021-07-03,Current,Salaried
+1763,Amit Tiwari,29.0,Female,Bhopal,Madhya Pradesh,2023-08-23,Current,Business
+1223,Suresh Joshi,30.0,Female,Delhi,Delhi,2024-05-08,Current,Business
+1180,Divya Nair,22.0,Male,Chennai,Tamil Nadu,2023-12-10,Current,Student
+1990,Meena Malhotra,24.0,Male,Hyderabad,Telangana,2021-04-25,Salary,Student
+1023,Ritu Gupta,29.0,Female,Jaipur,Rajasthan,2020-12-04,Current,Self-Employed
+1357,Kiran Sharma,39.0,Female,Ahmedabad,Gujarat,2024-05-14,Savings,Business
+1671,Sunita Sharma,32.0,Female,Kolkata,West Bengal,2020-10-02,Salary,Student
+1867,Manish Nair,49.0,Male,Kolkata,West Bengal,2020-10-31,Salary,Salaried
+1341,Anita Nair,46.0,Male,Pune,Maharashtra,2022-04-11,Current,Business
+1432,Neha Reddy,36.0,Female,Bhopal,Madhya Pradesh,2021-10-17,Current,Salaried
+1831,Sneha Iyer,22.0,Male,Ahmedabad,Gujarat,2023-12-09,Salary,Self-Employed
+1880,Nikhil Gupta,21.0,Male,Chandigarh,Punjab,2020-04-12,Current,Salaried
+1204,Deepak Mehta,44.0,Female,Chennai,Tamil Nadu,2022-03-04,Current,Student
+1635,Neha Tiwari,45.0,Female,Lucknow,Uttar Pradesh,2024-07-05,Salary,Salaried
+1094,Amit Rao,47.0,Female,,Rajasthan,2024-04-01,Savings,Self-Employed
+1968,Meena Joshi,53.0,Male,Ahmedabad,Gujarat,2020-08-19,Current,Salaried
+1069,Ritu Rao,28.0,Female,Bangalore,Karnataka,2024-06-29,Current,Student
+1627,Vikram Verma,,Male,Mumbai,Maharashtra,2020-12-06,Current,Business
+1285,Kiran Malhotra,30.0,Female,Mumbai,Maharashtra,2021-08-12,Salary,Salaried
+1810,Vikram Mehta,38.0,Male,Mumbai,Maharashtra,2023-06-29,Salary,Salaried
+1435,Rahul Malhotra,33.0,Female,Lucknow,Uttar Pradesh,2024-05-25,Current,Business
+1154,Divya Reddy,60.0,Male,Chandigarh,Punjab,2020-05-09,Salary,Self-Employed
+1076,Anita Iyer,45.0,Female,Jaipur,Rajasthan,2024-03-10,Salary,Business
+1735,Sanjay Kapoor,24.0,Female,Jaipur,Rajasthan,2020-03-25,Current,Business
+1447,Arjun Reddy,30.0,Male,Bhopal,Madhya Pradesh,2021-05-23,Current,Self-Employed
+1189,Rahul Tiwari,48.0,Male,Bangalore,Karnataka,2022-02-17,Salary,Business
+1272,Vikram Joshi,59.0,Female,Jaipur,Rajasthan,2020-03-23,Savings,Salaried
+1237,Ritu Iyer,41.0,Male,Delhi,Delhi,2021-11-02,Salary,Student
+1488,Ritu Verma,45.0,Female,Jaipur,Rajasthan,2023-11-08,Current,Business
+1118,Rekha Singh,31.0,Female,Ahmedabad,Gujarat,2023-11-21,Current,Student
+1824,Swati Tiwari,28.0,Female,Pune,Maharashtra,2023-02-10,Savings,Self-Employed
+1513,Sanjay Reddy,38.0,Female,Chandigarh,Punjab,2023-12-27,Salary,Student
+1800,Rahul Reddy,45.0,Male,Lucknow,Uttar Pradesh,2023-05-25,Current,Business
+1596,Rahul Kapoor,28.0,Male,Chandigarh,Punjab,2024-01-15,Salary,Salaried
+1127,Amit Nair,47.0,Female,Jaipur,Rajasthan,2021-07-01,Savings,Student
+1117,Sanjay Tiwari,26.0,Female,Pune,Maharashtra,2022-04-16,Current,Student
+1474,Suresh Singh,21.0,Male,Ahmedabad,Gujarat,2022-06-16,Salary,Self-Employed
+1698,Amit Gupta,24.0,Female,Ahmedabad,Gujarat,2020-05-26,Salary,Self-Employed
+1058,Meena Singh,45.0,Male,Chennai,Tamil Nadu,2020-03-31,Salary,Self-Employed
+1679,Suresh Dubey,,Female,Ahmedabad,Gujarat,2020-12-08,Savings,Salaried
+1918,Suresh Verma,25.0,Female,Pune,Maharashtra,2022-07-15,Current,Salaried
+1370,Sneha Rao,43.0,Male,Chandigarh,Punjab,2023-06-08,Savings,Self-Employed
+1269,Kiran Malhotra,23.0,Female,Mumbai,Maharashtra,2023-03-13,Salary,Business
+1047,Amit Mishra,38.0,Male,Mumbai,Maharashtra,2021-11-14,Savings,Student
+1350,Amit Reddy,59.0,Female,Pune,Maharashtra,2020-03-01,Salary,Student
+1196,Anita Gupta,36.0,Male,Bangalore,Karnataka,2021-06-08,Savings,Business
+1679,Suresh Dubey,,Female,Ahmedabad,Gujarat,2020-12-08,Savings,Salaried
+1858,Amit Sharma,47.0,Male,Jaipur,Rajasthan,2020-07-31,Salary,Self-Employed
+1741,Neha Patel,,Female,Pune,Maharashtra,2023-11-03,Salary,Salaried
+1264,Sneha Verma,39.0,Female,Lucknow,Uttar Pradesh,2022-05-06,Savings,Business
+1444,Vikram Singh,30.0,Male,Bangalore,Karnataka,2022-07-09,Current,Student
+1680,Vikram Rao,37.0,Male,Hyderabad,Telangana,2020-12-07,Current,Salaried
+1305,Ritu Joshi,57.0,Male,Bangalore,Karnataka,2021-11-02,Salary,Self-Employed
+1342,Nikhil Rao,40.0,Male,Chandigarh,Punjab,2024-10-23,Salary,Salaried
+1603,Pooja Mehta,35.0,female,Hyderabad,Telangana,2020-08-22,Savings,Salaried
+1973,Rekha Singh,46.0,Female,Jaipur,Rajasthan,2023-09-10,Salary,Salaried
+1150,Suresh Tiwari,39.0,Female,Delhi,Delhi,2022-08-17,Savings,Business
+1125,Sunita Iyer,53.0,Female,Ahmedabad,Gujarat,2024-09-05,Current,Self-Employed
+1791,Sunita Mehta,60.0,Male,Bhopal,Madhya Pradesh,2021-08-17,Savings,Salaried
+1828,Arjun Joshi,41.0,Female,Lucknow,Uttar Pradesh,2024-06-14,Salary,Student
+1051,Arjun Rao,27.0,Female,Jaipur,Rajasthan,2024-12-15,Current,Business
+1354,Sneha Patel,21.0,Female,Kolkata,West Bengal,2022-01-07,Current,Salaried
+1933,Manish Dubey,42.0,Male,Bhopal,Madhya Pradesh,2022-09-07,Savings,Business
+1143,Deepak Iyer,33.0,Female,Kolkata,West Bengal,2020-08-06,Savings,Self-Employed
+1471,Divya Rao,57.0,Male,Kolkata,West Bengal,2020-10-15,Current,Salaried
+1400,Kiran Nair,44.0,Female,Kolkata,West Bengal,2021-11-01,Salary,Salaried
+1630,Divya Gupta,58.0,Male,Lucknow,Uttar Pradesh,2023-09-12,Salary,Student
+1321,Aakash Reddy,47.0,Female,Bangalore,Karnataka,2021-09-06,Current,Business
+1020,Sanjay Joshi,30.0,Female,Bangalore,Karnataka,2023-01-09,Salary,Salaried
+1815,Divya Malhotra,40.0,Female,Hyderabad,Telangana,2023-12-31,Salary,Salaried
+1835,Vikram Tiwari,48.0,Male,Delhi,Delhi,2020-10-08,Salary,Self-Employed
+1814,Priya Patel,48.0,Female,Bangalore,Karnataka,2023-12-14,Salary,Self-Employed
+1408,Rahul Joshi,51.0,Male,Bangalore,Karnataka,2023-04-30,Savings,Self-Employed
+1538,Meena Singh,-5.0,Male,Chennai,Tamil Nadu,2020-08-21,Savings,Self-Employed
+1869,Aakash Tiwari,51.0,Female,Ahmedabad,Gujarat,2024-09-24,Salary,Salaried
+1039,Kiran Singh,57.0,Male,Lucknow,Uttar Pradesh,2023-05-02,Savings,Salaried
+1176,Rekha Singh,47.0,Female,Chandigarh,Punjab,2024-03-16,Current,Salaried
+1246,Arjun Iyer,52.0,Male,Delhi,Delhi,2020-10-04,Savings,Self-Employed
+1834,Meena Gupta,39.0,Male,Bangalore,Karnataka,2020-01-24,Savings,Salaried
+1738,Vikram Reddy,,Female,Lucknow,Uttar Pradesh,2024-03-06,Savings,Self-Employed
+1759,Rohit Patel,56.0,Male,Bangalore,Karnataka,2021-10-12,Savings,Salaried
+1864,Suresh Nair,32.0,Female,Delhi,Delhi,2022-10-04,Savings,Self-Employed
+1155,Nikhil Iyer,47.0,Male,Bangalore,Karnataka,2020-04-02,Savings,Student
+1288,Neha Verma,54.0,Male,Chandigarh,Punjab,2021-04-21,Savings,Salaried
+1614,Kiran Rao,58.0,Female,Bangalore,Karnataka,2022-08-09,Salary,Salaried
+1570,Deepak Gupta,29.0,Female,Lucknow,Uttar Pradesh,2023-12-04,Salary,Student
+1970,Ritu Verma,26.0,Female,Kolkata,West Bengal,2020-08-24,Current,Student
+1018,Sanjay Reddy,28.0,Female,Ahmedabad,Gujarat,2020-11-19,Current,Salaried
+1128,Swati Iyer,58.0,Female,Bangalore,Karnataka,2022-07-03,Salary,Self-Employed
+1323,Deepak Verma,56.0,Female,Ahmedabad,Gujarat,2023-02-15,Salary,Business
+1256,Vikram Iyer,60.0,Male,Jaipur,Rajasthan,2023-08-05,Savings,Business
+1986,Manish Tiwari,56.0,Female,Kolkata,West Bengal,2023-02-25,Savings,Salaried
+1971,Deepak Iyer,49.0,Male,Jaipur,Rajasthan,2022-04-14,Current,Self-Employed
+1191,Deepak Patel,41.0,Female,Lucknow,Uttar Pradesh,2022-04-08,Salary,Self-Employed
+1116,Pooja Tiwari,54.0,Female,Chennai,Tamil Nadu,2021-01-06,Salary,Self-Employed
+1621,Manish Patel,54.0,Female,Ahmedabad,Gujarat,2021-04-01,Salary,Self-Employed
+1607,Rohit Iyer,58.0,Male,Lucknow,Uttar Pradesh,2023-03-06,Current,Student
+1181,Anita Sharma,32.0,Male,Lucknow,Uttar Pradesh,2023-09-08,Current,Salaried
+1302,Anita Rao,35.0,Male,Kolkata,West Bengal,2020-11-09,Current,Student
+1890,Meena Sharma,56.0,Male,Hyderabad,Telangana,2020-08-28,Salary,Salaried
+1717,Vikram Mehta,23.0,Male,Delhi,Delhi,2022-09-21,Savings,Salaried
+1851,Sanjay Nair,28.0,Male,Bangalore,Karnataka,2022-08-08,Current,Self-Employed
+1690,Ritu Malhotra,33.0,Female,Jaipur,Rajasthan,2022-06-14,Current,Business
+1666,Nikhil Sharma,21.0,Male,Ahmedabad,Gujarat,2023-04-04,Savings,Student
+1518,Pooja Mehta,39.0,Male,Kolkata,West Bengal,2020-09-19,Salary,Student
+1991,Manish Patel,25.0,Female,Delhi,Delhi,2021-11-22,Savings,Salaried
+1046,Nikhil Reddy,34.0,Female,Jaipur,Rajasthan,2022-09-27,Current,Salaried
+1915,Anita Mehta,56.0,Male,Jaipur,Rajasthan,2023-12-23,Savings,Business
+1158,Divya Mishra,38.0,Male,Bhopal,Madhya Pradesh,2022-01-28,Savings,Self-Employed
+1949,Nikhil Singh,44.0,Male,Chennai,Tamil Nadu,2020-11-29,Salary,Salaried
+1172,Meena Dubey,35.0,Female,Pune,Maharashtra,2024-08-21,Current,Self-Employed
+1017,Aakash Nair,56.0,Male,Chandigarh,Punjab,2024-01-16,Savings,Student
+1512,Ritu Iyer,40.0,Male,Kolkata,West Bengal,2020-05-10,Current,Student
+1049,Nikhil Gupta,55.0,Male,Pune,Maharashtra,2023-04-07,Salary,Business
+1978,Aakash Nair,30.0,Female,Delhi,Delhi,2020-09-07,Current,Self-Employed
+1846,Aakash Patel,38.0,Female,Bangalore,Karnataka,2023-06-15,Current,Student
+1516,Meena Kapoor,45.0,Male,Lucknow,Uttar Pradesh,2023-12-21,Salary,Business
+1829,Meena Malhotra,26.0,Male,Lucknow,Uttar Pradesh,2022-11-11,Current,Business
+1481,Rekha Iyer,40.0,Male,Delhi,Delhi,2020-04-11,Current,Self-Employed
+1284,Sunita Malhotra,56.0,Female,Chennai,Tamil Nadu,2020-09-06,Salary,Self-Employed
+1723,Manish Mehta,56.0,Female,Bhopal,Madhya Pradesh,2020-08-04,Salary,Student
+1685,Ritu Dubey,29.0,Male,Lucknow,Uttar Pradesh,2023-05-08,Current,Self-Employed
+1226,Nikhil Gupta,39.0,Female,Mumbai,Maharashtra,2023-06-13,Current,Business
+1027,Neha Patel,23.0,female,Delhi,Delhi,2022-11-18,Savings,Student
+1787,Ritu Patel,39.0,Female,Bangalore,Karnataka,2020-09-06,Salary,Student
+1438,Rohit Sharma,45.0,Female,Delhi,Delhi,2021-02-24,Salary,Business
+1957,Sunita Malhotra,40.0,Female,Bangalore,Karnataka,2024-07-31,Current,Student
+1365,Anita Singh,57.0,Male,Lucknow,Uttar Pradesh,2023-01-22,Savings,Salaried
+1230,Manish Reddy,29.0,Male,Pune,Maharashtra,2023-01-23,Current,Business
+1038,Priya Patel,32.0,Male,Lucknow,Uttar Pradesh,2020-05-19,Salary,Business
+1972,Arjun Patel,51.0,Female,Bangalore,Karnataka,2020-01-27,Salary,Self-Employed
+1375,Anita Tiwari,27.0,Female,Bhopal,Madhya Pradesh,2023-11-27,Current,Student
+1470,Pooja Sharma,57.0,Female,Lucknow,Uttar Pradesh,2020-03-07,Savings,Student
+1974,Sneha Gupta,,Female,Bhopal,Madhya Pradesh,2023-04-24,Savings,Business
+1856,Sanjay Kapoor,50.0,Male,Bhopal,Madhya Pradesh,2023-10-08,Salary,Business
+1709,Deepak Joshi,22.0,Female,Pune,Maharashtra,2024-01-23,Savings,Student
+1845,Rekha Iyer,60.0,Male,Chennai,Tamil Nadu,2022-09-19,Savings,Business
+1195,Pooja Patel,53.0,Male,Jaipur,Rajasthan,2022-11-10,Savings,Student
+1860,Priya Joshi,,Male,Bhopal,Madhya Pradesh,2020-09-02,Savings,Business
+1870,Ritu Rao,21.0,Female,Bhopal,Madhya Pradesh,2024-08-02,Current,Salaried
+1504,Deepak Kapoor,28.0,Male,Hyderabad,Telangana,2022-02-01,Current,Self-Employed
+1976,Neha Mishra,52.0,Female,Bhopal,Madhya Pradesh,2024-04-17,Salary,Student
+1836,Deepak Mishra,60.0,Male,Kolkata,West Bengal,2022-11-09,Current,Self-Employed
+1580,Divya Dubey,35.0,Female,Lucknow,Uttar Pradesh,2023-01-24,Salary,Business
+1975,Amit Malhotra,33.0,Female,Hyderabad,Telangana,2023-05-03,Current,Salaried
+1163,Vikram Sharma,38.0,Male,Bangalore,Karnataka,2023-01-11,Current,Business
+1707,Sanjay Verma,24.0,Female,Chandigarh,Punjab,2020-11-11,Salary,Salaried
+1153,Manish Kapoor,44.0,Male,Chandigarh,Punjab,2021-04-23,Current,Salaried
+1686,Aakash Iyer,43.0,Female,,Rajasthan,2021-04-10,Savings,Self-Employed
+1705,Rahul Verma,58.0,Female,Bhopal,Madhya Pradesh,2023-05-06,Savings,Student
+1760,Rohit Mishra,47.0,Female,Kolkata,West Bengal,2024-03-07,Salary,Student
+1112,Amit Verma,31.0,Female,Lucknow,Uttar Pradesh,2024-03-13,Salary,Student
+1227,Manish Mishra,32.0,Male,Jaipur,Rajasthan,2022-01-08,Savings,Salaried
+1693,Vikram Iyer,28.0,Female,,Uttar Pradesh,2022-07-16,Current,Self-Employed
+1104,Amit Kapoor,52.0,Male,Lucknow,Uttar Pradesh,2023-07-13,Salary,Salaried
+1422,Aakash Joshi,30.0,Female,Ahmedabad,Gujarat,2023-04-16,Salary,Salaried
+1420,Priya Kapoor,53.0,Female,Chandigarh,Punjab,2023-12-30,Salary,Self-Employed
+1755,Neha Gupta,42.0,Female,Chandigarh,Punjab,2020-10-08,Savings,Self-Employed
+1587,Rekha Reddy,42.0,female,Chennai,Tamil Nadu,2021-03-23,Salary,Self-Employed
+1785,Pooja Iyer,60.0,Male,Kolkata,West Bengal,2024-03-14,Salary,Student
+1673,Priya Joshi,37.0,Female,Chandigarh,Punjab,2020-07-16,Current,Student
+1120,Rohit Singh,46.0,Male,Chandigarh,Punjab,2024-11-15,Salary,Self-Employed
+1054,Sunita Rao,33.0,Female,Pune,Maharashtra,2021-09-17,Savings,Business
+1152,Suresh Singh,50.0,Female,Chandigarh,Punjab,2024-03-13,Salary,Student
+1404,Sneha Dubey,22.0,Male,Bangalore,Karnataka,2022-06-22,Current,Salaried
+1951,Anita Mishra,43.0,Male,Chennai,Tamil Nadu,2021-08-20,Salary,Salaried
+1208,Ritu Kapoor,42.0,Male,Chandigarh,Punjab,2023-12-10,Salary,Salaried
+1659,Rohit Malhotra,34.0,Female,Bangalore,Karnataka,2024-03-08,Salary,Business
+1849,Rohit Patel,30.0,Male,Kolkata,West Bengal,2024-03-21,Current,Self-Employed
+1837,Kiran Malhotra,35.0,Male,Ahmedabad,Gujarat,2023-05-23,Savings,Self-Employed
+1009,Kiran Nair,50.0,female,Bangalore,Karnataka,2022-01-28,Current,Business
+1883,Sneha Gupta,41.0,Male,Mumbai,Maharashtra,2023-04-29,Savings,Student
+1037,Swati Reddy,24.0,Male,Lucknow,Uttar Pradesh,2022-09-03,Salary,Business
+1453,Priya Mehta,57.0,Female,Bhopal,Madhya Pradesh,2022-03-19,Current,Salaried
+1652,Divya Joshi,50.0,Female,Lucknow,Uttar Pradesh,2020-01-10,Current,Business
+1254,Aakash Gupta,40.0,Male,Bangalore,Karnataka,2021-10-22,Salary,Business
+1304,Aakash Dubey,54.0,Female,Delhi,Delhi,2023-03-01,Savings,Salaried
+1751,Rohit Tiwari,59.0,Male,Bangalore,Karnataka,00/00/0000,Salary,Self-Employed
+1572,Rekha Malhotra,29.0,Male,Jaipur,Rajasthan,2023-01-16,Salary,Student
+1624,Vikram Mehta,31.0,Female,Lucknow,Uttar Pradesh,2024-01-09,Savings,Business
+1714,Divya Rao,41.0,Male,Chandigarh,Punjab,2023-01-08,Current,Business
+1724,Rekha Dubey,48.0,Male,Bangalore,Karnataka,2024-06-10,Savings,Self-Employed
+1263,Rohit Rao,50.0,Male,Chennai,Tamil Nadu,2022-07-09,Savings,Business
+1611,Suresh Gupta,55.0,male,Chennai,Tamil Nadu,2024-02-11,Salary,Salaried
+1298,Pooja Gupta,51.0,Female,Hyderabad,Telangana,2020-01-14,Current,Self-Employed
+1415,Suresh Patel,36.0,Female,Bhopal,Madhya Pradesh,2020-02-24,Salary,Student
+1151,Neha Kapoor,56.0,Female,Delhi,Delhi,2024-06-07,Current,Salaried
+1793,Meena Verma,42.0,Female,Jaipur,Rajasthan,2024-07-08,Salary,Business
+1641,Arjun Mishra,56.0,Female,Bangalore,Karnataka,2022-01-28,Salary,Self-Employed
+1895,Ritu Mehta,31.0,Male,Kolkata,West Bengal,2022-11-20,Savings,Salaried
+1551,Sunita Tiwari,28.0,Female,Kolkata,West Bengal,2020-04-04,Savings,Student
+1803,Aakash Iyer,32.0,Male,Pune,Maharashtra,2024-05-26,Savings,Business
+1489,Sunita Iyer,26.0,Female,Bhopal,Madhya Pradesh,2020-03-12,Salary,Business
+1148,Swati Gupta,26.0,Female,Pune,Maharashtra,2024-03-10,Current,Business
+1147,Sanjay Singh,23.0,Female,Kolkata,West Bengal,2020-03-09,Salary,Student
+1935,Anita Patel,41.0,Male,Lucknow,Uttar Pradesh,2023-08-06,Savings,Business
+1937,Aakash Kapoor,33.0,Female,Pune,Maharashtra,2023-05-20,Salary,Salaried
+1744,Deepak Verma,35.0,Male,Chandigarh,Punjab,2022-02-04,Savings,Salaried
+1660,Sunita Joshi,36.0,Male,Chennai,Tamil Nadu,2021-02-27,Savings,Business
+1349,Kiran Gupta,26.0,Female,Mumbai,Maharashtra,2020-07-19,Current,Business
+1464,Priya Rao,59.0,Male,Mumbai,Maharashtra,2022-12-14,Current,Salaried
+1326,Amit Joshi,58.0,Male,Kolkata,West Bengal,2021-03-03,Current,Student
+1187,Aakash Iyer,23.0,Male,Ahmedabad,Gujarat,2023-05-12,Savings,Salaried
+1124,Ritu Mishra,26.0,Male,Delhi,Delhi,2022-08-03,Savings,Business
+1859,Anita Rao,39.0,Female,Hyderabad,Telangana,2020-03-10,Savings,Salaried
+1609,Suresh Malhotra,29.0,Female,Kolkata,West Bengal,2022-08-05,Current,Student
+1144,Manish Malhotra,57.0,Female,Bhopal,Madhya Pradesh,2021-08-27,Savings,Self-Employed
+1965,Aakash Patel,27.0,male,Jaipur,Rajasthan,2021-03-20,Salary,Business
+1198,Rekha Reddy,41.0,Male,Kolkata,West Bengal,2020-05-19,Current,Self-Employed
+1610,Kavya Tiwari,56.0,Male,Bangalore,Karnataka,2023-08-15,Salary,Salaried
+1280,Meena Tiwari,24.0,Male,Jaipur,Rajasthan,2021-02-28,Salary,Student
+1294,Rohit Iyer,50.0,Female,Bangalore,Karnataka,2024-10-08,Salary,Self-Employed
+1401,Swati Patel,50.0,Female,Delhi,Delhi,2024-06-17,Salary,Self-Employed
+1123,Sneha Sharma,59.0,male,Bhopal,Madhya Pradesh,2020-11-20,Current,Salaried
+1184,Vikram Mehta,60.0,Male,Chandigarh,Punjab,2020-06-16,Current,Self-Employed
+1203,Sneha Reddy,26.0,Male,Mumbai,Maharashtra,2021-05-22,Salary,Self-Employed
+1439,Meena Tiwari,24.0,Male,Bhopal,Madhya Pradesh,2021-07-27,Savings,Salaried
+1247,Pooja Dubey,26.0,Female,Chandigarh,Punjab,2021-12-12,Salary,Salaried
+1416,Arjun Joshi,46.0,Female,Chandigarh,Punjab,2020-04-21,Savings,Self-Employed
+1781,Neha Joshi,58.0,Female,Kolkata,West Bengal,2022-04-19,Current,Salaried
+1984,Deepak Verma,23.0,male,,Rajasthan,2023-09-12,Current,Business
+1912,Aakash Verma,39.0,Female,Chennai,Tamil Nadu,2023-11-30,Salary,Business
+1865,Pooja Tiwari,27.0,Male,Jaipur,Rajasthan,2024-04-23,Current,Business
+1893,Pooja Mehta,23.0,Male,Chandigarh,Punjab,2022-01-15,Current,Business
+1130,Manish Kapoor,35.0,Female,Mumbai,Maharashtra,2021-10-13,Salary,Self-Employed
+1638,Manish Singh,54.0,Male,Ahmedabad,Gujarat,2023-09-02,Savings,Student
+1403,Ritu Gupta,57.0,Female,Pune,Maharashtra,2023-10-29,Savings,Salaried
+1789,Sneha Patel,51.0,Female,Ahmedabad,Gujarat,2023-05-31,Current,Student
+1775,Nikhil Singh,26.0,Male,Bhopal,Madhya Pradesh,2022-07-09,Salary,Student
+1736,Rohit Rao,30.0,Male,Chandigarh,Punjab,2024-02-07,Current,Self-Employed
+1919,Sunita Iyer,49.0,Female,Chandigarh,Punjab,2023-11-20,Savings,Business
+1220,Aakash Malhotra,36.0,Female,Delhi,Delhi,2022-02-06,Savings,Salaried
+1642,Suresh Iyer,57.0,Female,Bhopal,Madhya Pradesh,2022-03-26,Salary,Business
+1921,Pooja Nair,28.0,Male,Kolkata,West Bengal,2020-11-04,Savings,Salaried
+1757,Divya Reddy,49.0,Male,Hyderabad,Telangana,2023-08-29,Savings,Business
+1812,Manish Rao,,Male,Chennai,Tamil Nadu,2023-06-09,Current,Self-Employed
+1925,Deepak Iyer,57.0,Male,,Tamil Nadu,2020-12-17,Current,Business
+1625,Meena Reddy,28.0,Female,Chandigarh,Punjab,2022-09-07,Current,Business
+1844,Swati Nair,24.0,Female,Lucknow,Uttar Pradesh,2020-12-12,Salary,Salaried
+1765,Meena Sharma,38.0,Female,Hyderabad,Telangana,2024-02-29,Salary,Business
+1387,Vikram Mehta,41.0,Female,Lucknow,Uttar Pradesh,2020-04-19,Current,Salaried
+1979,Sunita Rao,29.0,Male,Delhi,Delhi,2024-02-20,Savings,Salaried
+1510,Meena Kapoor,43.0,Female,Chennai,Tamil Nadu,2021-03-22,Current,Student
+1268,Kavya Sharma,27.0,Female,Bangalore,Karnataka,2024-12-12,Current,Student
+1825,Pooja Iyer,46.0,Male,Lucknow,Uttar Pradesh,2020-08-10,Salary,Self-Employed
+1442,Rekha Gupta,36.0,Female,Chennai,Tamil Nadu,2024-10-08,Current,Self-Employed
+1497,Priya Kapoor,42.0,Male,Mumbai,Maharashtra,2024-03-07,Current,Student
+1113,Deepak Singh,50.0,Female,Bhopal,Madhya Pradesh,2022-04-04,Current,Self-Employed
+1692,Aakash Nair,39.0,Female,Ahmedabad,Gujarat,2021-01-20,Savings,Business
+1233,Kavya Kapoor,55.0,Female,Chennai,Tamil Nadu,2020-03-15,Salary,Business
+1875,Vikram Verma,33.0,Male,Bhopal,Madhya Pradesh,2023-04-29,Savings,Self-Employed
+1608,Meena Mehta,21.0,Female,Hyderabad,Telangana,2024-05-28,Savings,Self-Employed
+1672,Sunita Iyer,37.0,Male,Ahmedabad,Gujarat,2020-07-21,Salary,Business
+1374,Swati Gupta,43.0,Female,Pune,Maharashtra,2022-07-21,Savings,Self-Employed
+1988,Rohit Verma,22.0,Male,Bangalore,Karnataka,2024-09-10,Current,Student
+1848,Anita Mehta,37.0,Male,Kolkata,West Bengal,2021-01-05,Salary,Salaried
+1234,Kavya Malhotra,24.0,Female,Chennai,Tamil Nadu,2020-09-11,Current,Self-Employed
+1790,Aakash Malhotra,29.0,Female,Jaipur,Rajasthan,2024-02-02,Salary,Self-Employed
+1677,Pooja Reddy,47.0,Female,Delhi,Delhi,2020-06-11,Savings,Student
+1318,Vikram Iyer,35.0,Female,Lucknow,Uttar Pradesh,2023-05-09,Salary,Student
+1649,Anita Rao,21.0,Male,Delhi,Delhi,2021-07-19,Current,Student
+1411,Rohit Malhotra,40.0,Male,Ahmedabad,Gujarat,2024-05-03,Savings,Business
+1904,Deepak Nair,21.0,Female,Bhopal,Madhya Pradesh,2024-11-22,Savings,Business
+1710,Priya Tiwari,49.0,Female,Jaipur,Rajasthan,2023-11-28,Current,Business
+1359,Sunita Gupta,25.0,Male,Ahmedabad,Gujarat,2021-07-19,Current,Student
+1259,Sanjay Iyer,40.0,Female,Hyderabad,Telangana,2024-07-06,Salary,Self-Employed
+1745,Sneha Verma,36.0,Male,Chennai,Tamil Nadu,2020-01-29,Current,Salaried
+1628,Aakash Kapoor,59.0,Male,Bhopal,Madhya Pradesh,2024-01-30,Salary,Student
+1633,Sunita Verma,55.0,Male,Delhi,Delhi,2022-09-14,Salary,Business
+1283,Neha Iyer,39.0,Male,Bhopal,Madhya Pradesh,2023-12-14,Current,Student
+1377,Rekha Mehta,36.0,Male,Jaipur,Rajasthan,2020-11-23,Current,Self-Employed
+1385,Pooja Malhotra,30.0,Female,Ahmedabad,Gujarat,2023-05-06,Savings,Self-Employed
+1225,Amit Singh,52.0,Male,Chandigarh,Punjab,2022-11-21,Salary,Business
+1960,Nikhil Singh,25.0,Male,Kolkata,West Bengal,2024-03-31,Current,Salaried
+1820,Aakash Singh,46.0,Male,Pune,Maharashtra,2023-02-12,Salary,Salaried
+1473,Deepak Sharma,37.0,Male,Hyderabad,Telangana,2023-11-20,Savings,Student
+1348,Amit Iyer,31.0,Male,Lucknow,Uttar Pradesh,2024-09-05,Current,Student
+1506,Kavya Sharma,45.0,male,Bangalore,Karnataka,2024-10-14,Salary,Business
+1640,Suresh Mishra,57.0,Female,Lucknow,Uttar Pradesh,2021-07-18,Salary,Self-Employed
+1994,Rohit Singh,52.0,male,Bhopal,Madhya Pradesh,2023-10-14,Savings,Student
+1798,Deepak Mishra,24.0,Female,Lucknow,Uttar Pradesh,2024-01-24,Salary,Student
+1934,Rekha Singh,40.0,Male,Ahmedabad,Gujarat,2023-06-18,Savings,Self-Employed
+1911,Pooja Malhotra,50.0,Male,Chandigarh,Punjab,2020-05-24,Current,Student
+1620,Nikhil Nair,37.0,Male,Ahmedabad,Gujarat,2023-08-31,Current,Student
+1661,Neha Malhotra,,Male,Delhi,Delhi,2020-06-09,Salary,Self-Employed
+1809,Arjun Iyer,38.0,Female,Kolkata,West Bengal,2023-10-06,Savings,Student
+1646,Anita Patel,59.0,Male,Bhopal,Madhya Pradesh,2022-02-26,Current,Student
+1852,Kavya Tiwari,55.0,Male,Ahmedabad,Gujarat,2023-10-31,Salary,Self-Employed
+1557,Deepak Dubey,57.0,Female,Delhi,Delhi,2024-10-20,Current,Self-Employed
+1964,Manish Malhotra,43.0,Male,Jaipur,Rajasthan,2024-05-18,Salary,Business
+1578,Swati Kapoor,36.0,Female,Bhopal,Madhya Pradesh,2023-09-22,Savings,Self-Employed
+1796,Pooja Joshi,42.0,female,Chandigarh,Punjab,2022-09-08,Current,Salaried
+1086,Kiran Joshi,25.0,Male,Delhi,Delhi,2023-11-28,Current,Salaried
+1243,Deepak Patel,57.0,Male,Jaipur,Rajasthan,2022-01-21,Current,Student
+1699,Pooja Joshi,37.0,Female,Mumbai,Maharashtra,2020-09-06,Salary,Business
+1160,Priya Kapoor,38.0,Male,Delhi,Delhi,2024-10-02,Current,Salaried
+1525,Deepak Nair,34.0,Male,Lucknow,Uttar Pradesh,2024-04-14,Savings,Self-Employed
+1036,Vikram Joshi,39.0,Male,Mumbai,Maharashtra,2023-04-01,Salary,Salaried
+1541,Neha Sharma,21.0,Male,Delhi,Delhi,2024-09-06,Salary,Self-Employed
+1171,Deepak Mishra,27.0,Male,Chandigarh,Punjab,2023-08-26,Salary,Business
+1655,Neha Reddy,50.0,Female,Lucknow,Uttar Pradesh,2024-10-31,Savings,Self-Employed
+1896,Neha Dubey,58.0,Female,Ahmedabad,Gujarat,2021-02-11,Salary,Student
+1907,Meena Kapoor,51.0,Male,Kolkata,West Bengal,2022-10-11,Savings,Salaried
+1853,Sunita Nair,30.0,Female,Mumbai,Maharashtra,2021-08-14,Current,Self-Employed
+1950,Vikram Reddy,50.0,Male,Pune,Maharashtra,2020-11-30,Savings,Student
+1734,Anita Mishra,47.0,Male,Hyderabad,Telangana,2024-03-11,Salary,Salaried
+1096,Nikhil Rao,40.0,Female,Kolkata,West Bengal,2023-02-07,Salary,Student
+1564,Sneha Nair,60.0,Male,Hyderabad,Telangana,2020-09-04,Current,Business
+1241,Priya Gupta,25.0,Male,Chandigarh,Punjab,2022-01-20,Current,Self-Employed
+1743,Divya Sharma,40.0,Male,Pune,Maharashtra,2023-06-16,Current,Business
+1575,Vikram Verma,24.0,Male,Chennai,Tamil Nadu,2024-03-16,Savings,Student
+1691,Pooja Kapoor,45.0,Male,Chennai,Tamil Nadu,2020-06-11,Current,Business
+1461,Ritu Verma,35.0,Female,Pune,Maharashtra,2024-09-14,Savings,Business
+1554,Vikram Verma,21.0,Male,Jaipur,Rajasthan,2024-10-04,Current,Self-Employed
+1884,Amit Singh,,Male,Ahmedabad,Gujarat,2020-12-10,Salary,Student
+1207,Anita Iyer,46.0,male,Lucknow,Uttar Pradesh,2023-12-22,Savings,Student
+1393,Kavya Verma,49.0,Female,Pune,Maharashtra,2024-10-31,Savings,Self-Employed
+1795,Rahul Singh,42.0,Female,Ahmedabad,Gujarat,2024-01-23,Salary,Salaried
+1398,Neha Gupta,41.0,Male,Chandigarh,Punjab,2022-03-15,Current,Business
+1767,Deepak Rao,48.0,Female,Mumbai,Maharashtra,2023-05-30,Salary,Self-Employed
+1854,Rekha Reddy,54.0,Male,Delhi,Delhi,2022-12-24,Salary,Student
+1218,Kavya Patel,31.0,Female,Kolkata,West Bengal,2022-11-17,Savings,Self-Employed
+1005,Rohit Nair,30.0,Male,Pune,Maharashtra,2020-07-28,Savings,Self-Employed
+1769,Priya Rao,54.0,Female,Bhopal,Madhya Pradesh,2020-03-21,Salary,Self-Employed
+1643,Rekha Singh,35.0,Female,Bhopal,Madhya Pradesh,2020-11-27,Savings,Business
+1903,Manish Rao,26.0,Female,Jaipur,Rajasthan,2022-09-28,Savings,Self-Employed
+1613,Priya Nair,55.0,female,Chandigarh,Punjab,2024-05-06,Savings,Student
+1739,Suresh Patel,46.0,Female,,Madhya Pradesh,2020-09-24,Savings,Self-Employed
+1547,Pooja Singh,46.0,Female,Kolkata,West Bengal,2021-07-10,Current,Self-Employed
+1726,Anita Mishra,48.0,Female,Lucknow,Uttar Pradesh,2021-05-07,Salary,Business
+1684,Rahul Verma,43.0,Female,Kolkata,West Bengal,2022-08-14,Salary,Student
+1099,Arjun Joshi,51.0,Female,Bhopal,Madhya Pradesh,2023-04-22,Salary,Student
+1805,Rohit Tiwari,54.0,Female,Pune,Maharashtra,2020-10-20,Savings,Business
+1728,Kavya Sharma,54.0,Male,Chennai,Tamil Nadu,2020-01-14,Current,Business
+1574,Rekha Iyer,48.0,Male,Jaipur,Rajasthan,2020-08-06,Savings,Self-Employed
+1407,Priya Kapoor,40.0,Male,Ahmedabad,Gujarat,2023-09-04,Savings,Salaried
+1503,Priya Dubey,24.0,Female,Bhopal,Madhya Pradesh,2021-02-11,Current,Student
+1048,Pooja Dubey,56.0,Female,Jaipur,Rajasthan,2020-01-20,Savings,Salaried
+1033,Ritu Singh,24.0,Male,Delhi,Delhi,2024-03-23,Savings,Business
+1780,Rahul Dubey,52.0,Female,Jaipur,Rajasthan,2024-07-11,Savings,Self-Employed
+1840,Nikhil Patel,30.0,Female,Kolkata,West Bengal,2022-11-24,Savings,Salaried
+1201,Sanjay Patel,60.0,Female,Kolkata,West Bengal,2023-04-03,Salary,Salaried
+1135,Ritu Verma,60.0,Male,Hyderabad,Telangana,2023-07-16,Salary,Student
+1028,Rekha Tiwari,34.0,Male,Bhopal,Madhya Pradesh,2024-12-12,Salary,Self-Employed
+1886,Sanjay Kapoor,31.0,Male,Kolkata,West Bengal,2020-06-14,Savings,Salaried
+1231,Rekha Dubey,51.0,Male,Bangalore,Karnataka,2020-05-09,Salary,Self-Employed
+1490,Sneha Dubey,32.0,Male,Hyderabad,Telangana,2024-07-13,Savings,Business
+1773,Kiran Mishra,41.0,Female,Mumbai,Maharashtra,2021-01-01,Current,Business
+1379,Kiran Sharma,60.0,Male,Kolkata,West Bengal,2023-04-27,Current,Self-Employed
+1289,Meena Reddy,51.0,Male,Chandigarh,Punjab,2024-04-27,Savings,Salaried
+1419,Sunita Patel,22.0,Male,Mumbai,Maharashtra,2021-06-20,Savings,Salaried
+1675,Anita Joshi,57.0,Male,Chennai,Tamil Nadu,2021-12-28,Current,Self-Employed
+1392,Ritu Verma,49.0,Male,Ahmedabad,Gujarat,2020-07-28,Salary,Business
+1593,Sanjay Patel,30.0,Male,Kolkata,West Bengal,2024-01-08,Current,Salaried
+1499,Neha Gupta,40.0,Female,Pune,Maharashtra,2021-07-05,Salary,Self-Employed
+1139,Pooja Mehta,26.0,Female,Lucknow,Uttar Pradesh,2023-10-31,Savings,Self-Employed
+1063,Kavya Joshi,48.0,Female,Kolkata,West Bengal,2022-06-23,Current,Business
+1472,Neha Malhotra,41.0,Male,Chandigarh,Punjab,2024-12-18,Savings,Student
+1648,Arjun Verma,59.0,Male,Lucknow,Uttar Pradesh,2020-12-13,Salary,Salaried
+1129,Anita Reddy,56.0,Female,Kolkata,West Bengal,2021-10-21,Savings,Business
+1983,Meena Singh,45.0,Female,Pune,Maharashtra,2024-10-12,Current,Self-Employed
+1521,Sunita Verma,58.0,Male,Kolkata,West Bengal,2024-12-26,Savings,Salaried
+1839,Priya Verma,57.0,Female,Bhopal,Madhya Pradesh,2022-01-24,Savings,Self-Employed
+1969,Deepak Singh,54.0,Male,Kolkata,West Bengal,2024-04-10,Current,Student
+1065,Amit Rao,40.0,Male,Hyderabad,Telangana,2020-10-28,Savings,Salaried
+1813,Priya Gupta,22.0,Female,Chandigarh,Punjab,2020-04-13,Savings,Self-Employed
+1015,Vikram Tiwari,26.0,Male,Delhi,Delhi,2020-11-09,Salary,Business
+1157,Anita Mishra,58.0,Male,Ahmedabad,Gujarat,2023-09-03,Savings,Self-Employed
+1041,Suresh Kapoor,29.0,Female,Kolkata,West Bengal,2021-10-09,Savings,Salaried
+1493,Ritu Reddy,38.0,Female,Mumbai,Maharashtra,2024-05-29,Salary,Self-Employed
+1380,Rahul Joshi,34.0,Female,Bhopal,Madhya Pradesh,2024-07-14,Savings,Salaried
+1188,Arjun Iyer,34.0,Male,Chennai,Tamil Nadu,2021-08-15,Current,Salaried
+1764,Kiran Tiwari,51.0,Male,Bangalore,Karnataka,2021-01-30,Savings,Salaried
+1217,Sanjay Tiwari,44.0,Male,Bhopal,Madhya Pradesh,2024-09-28,Salary,Salaried
+1792,Sneha Sharma,50.0,Male,Bhopal,Madhya Pradesh,2024-10-02,Savings,Self-Employed
+1053,Meena Rao,38.0,Male,Bhopal,Madhya Pradesh,2020-08-09,Current,Salaried
+1879,Priya Gupta,52.0,Male,Kolkata,West Bengal,2023-06-20,Savings,Business
+1338,Rekha Tiwari,22.0,Male,Jaipur,Rajasthan,2023-02-03,Current,Salaried
+1749,Priya Dubey,21.0,Male,Ahmedabad,Gujarat,2023-09-14,Current,Student
+1720,Anita Mishra,44.0,Male,Lucknow,Uttar Pradesh,2021-06-28,Salary,Salaried
+1725,Aakash Reddy,31.0,Female,Pune,Maharashtra,2021-10-07,Salary,Student
+1296,Nikhil Mehta,21.0,Female,Chennai,Tamil Nadu,2023-03-08,Salary,Business
+1702,Sanjay Verma,56.0,Male,Chennai,Tamil Nadu,2022-09-12,Salary,Student
+1252,Vikram Reddy,25.0,Female,Kolkata,West Bengal,2023-10-24,Salary,Student
+1727,Kiran Nair,44.0,Female,Kolkata,West Bengal,2022-03-24,Savings,Salaried
+1462,Neha Reddy,43.0,Male,Bhopal,Madhya Pradesh,2023-12-05,Current,Business
+1456,Ritu Tiwari,24.0,Male,Chennai,Tamil Nadu,2022-02-23,Savings,Self-Employed
+1741,Neha Patel,,Female,Pune,Maharashtra,2023-11-03,Salary,Salaried
+1816,Deepak Gupta,26.0,Female,Delhi,Delhi,2022-07-22,Current,Self-Employed
+1863,Pooja Patel,38.0,Male,Ahmedabad,Gujarat,2022-03-06,Current,Salaried
+1270,Anita Iyer,25.0,Female,Jaipur,Rajasthan,2022-07-11,Salary,Student
+1202,Deepak Joshi,41.0,Female,Jaipur,Rajasthan,2020-11-04,Savings,Self-Employed
+1162,Vikram Joshi,25.0,Male,Lucknow,Uttar Pradesh,2021-03-18,Savings,Student
+1556,Aakash Rao,56.0,Female,Ahmedabad,Gujarat,00/00/0000,Savings,Salaried
+1730,Sneha Verma,50.0,Female,,Karnataka,2020-10-10,Current,Student
+1402,Arjun Mishra,34.0,Female,Chennai,Tamil Nadu,2021-10-23,Current,Student
+1703,Arjun Malhotra,24.0,Male,Delhi,Delhi,2021-04-28,Salary,Self-Employed
+1477,Rahul Reddy,37.0,Male,Delhi,Delhi,2021-12-01,Savings,Self-Employed
+1822,Sunita Kapoor,25.0,Female,Hyderabad,Telangana,2024-07-24,Salary,Self-Employed
+1772,Deepak Dubey,26.0,Male,Bangalore,Karnataka,2024-05-13,Salary,Business
+1106,Divya Rao,54.0,Female,Kolkata,West Bengal,2022-06-25,Current,Self-Employed
+1566,Deepak Dubey,58.0,Male,Kolkata,West Bengal,2020-01-09,Salary,Salaried
+1390,Neha Iyer,23.0,Female,Hyderabad,Telangana,2023-01-06,Current,Business
+1002,Rekha Patel,58.0,Female,Mumbai,Maharashtra,2020-03-02,Savings,Business
+1943,Rahul Mishra,38.0,Female,Bangalore,Karnataka,2023-02-12,Current,Business
+1989,Swati Sharma,42.0,Female,Delhi,Delhi,2022-05-26,Current,Student
+1562,Rahul Reddy,43.0,Female,Jaipur,Rajasthan,2022-12-05,Current,Salaried
+1081,Kiran Nair,47.0,Female,Delhi,Delhi,2022-08-21,Savings,Salaried
+1206,Kavya Nair,59.0,Male,Pune,Maharashtra,2020-06-15,Salary,Business
+1035,Rahul Kapoor,37.0,Female,Chennai,Tamil Nadu,2022-05-16,Salary,Self-Employed
+1776,Amit Kapoor,53.0,Male,Ahmedabad,Gujarat,2023-02-01,Current,Salaried
+1509,Neha Nair,59.0,Female,Bhopal,Madhya Pradesh,2023-12-23,Salary,Student
+1428,Sunita Dubey,53.0,Female,Mumbai,Maharashtra,2022-10-20,Salary,Business
+1455,Deepak Gupta,23.0,Male,Chandigarh,Punjab,2021-08-27,Current,Self-Employed
+1367,Meena Tiwari,29.0,Female,Hyderabad,Telangana,2021-06-01,Salary,Business
+1092,Rohit Sharma,52.0,Female,Bangalore,Karnataka,2022-09-25,Savings,Student
+1340,Pooja Singh,27.0,Male,Hyderabad,Telangana,2021-01-28,Salary,Student
+1898,Arjun Kapoor,35.0,Male,Kolkata,West Bengal,2023-04-13,Current,Salaried
+1565,Deepak Joshi,42.0,male,Ahmedabad,Gujarat,2020-04-05,Salary,Salaried
+1346,Suresh Verma,-5.0,Female,Jaipur,Rajasthan,2023-02-28,Salary,Salaried
+1777,Pooja Reddy,57.0,Male,Bangalore,Karnataka,2024-11-14,Savings,Business
+1242,Manish Verma,59.0,Male,Chandigarh,Punjab,2022-07-10,Current,Student
+1014,Swati Nair,58.0,Female,Lucknow,Uttar Pradesh,2022-03-28,Current,Business
+1316,Arjun Patel,27.0,Male,Kolkata,West Bengal,2023-05-09,Salary,Salaried
+1601,Sneha Verma,21.0,Female,Jaipur,Rajasthan,2023-01-26,Savings,Student
+1388,Sunita Gupta,33.0,Female,Jaipur,Rajasthan,2022-11-01,Salary,Self-Employed
+1274,Rohit Reddy,31.0,Female,Lucknow,Uttar Pradesh,2024-02-23,Current,Student
+1167,Deepak Rao,60.0,Male,Bhopal,Madhya Pradesh,2024-05-23,Salary,Student
+1841,Neha Tiwari,25.0,Female,Lucknow,Uttar Pradesh,2020-04-18,Current,Salaried
+1999,Meena Joshi,43.0,Male,Chandigarh,Punjab,2024-08-14,Current,Student
+1647,Nikhil Verma,32.0,Female,Kolkata,West Bengal,2020-01-22,Savings,Student
+1819,Sneha Malhotra,51.0,Female,Bangalore,Karnataka,2021-08-01,Current,Business
+1485,Amit Kapoor,32.0,Female,Ahmedabad,Gujarat,2022-01-26,Savings,Self-Employed
+1987,Kiran Nair,52.0,Female,Lucknow,Uttar Pradesh,2023-10-17,Current,Student
+1505,Pooja Tiwari,58.0,Female,Pune,Maharashtra,2020-11-30,Current,Salaried
+1832,Sanjay Reddy,45.0,Female,Ahmedabad,Gujarat,2022-06-10,Salary,Business
+1244,Sanjay Nair,36.0,Male,Mumbai,Maharashtra,2024-02-15,Savings,Self-Employed
+1567,Ritu Mishra,58.0,Female,Jaipur,Rajasthan,2024-05-18,Savings,Business
+1876,Kiran Patel,55.0,Female,Kolkata,West Bengal,2022-12-29,Current,Salaried
+1563,Priya Mehta,52.0,Male,,Madhya Pradesh,2024-02-29,Salary,Self-Employed
+1687,Kavya Malhotra,47.0,Female,Bangalore,Karnataka,2021-09-13,Savings,Salaried
+1958,Pooja Iyer,22.0,Male,Hyderabad,Telangana,2020-09-20,Salary,Business
+1190,Aakash Malhotra,25.0,Female,Bhopal,Madhya Pradesh,2020-03-27,Current,Salaried
+1783,Priya Mehta,30.0,Male,Chandigarh,Punjab,2021-12-15,Savings,Business
+1700,Kiran Dubey,36.0,Male,Hyderabad,Telangana,2022-08-01,Salary,Salaried
+1476,Sunita Rao,31.0,Female,Delhi,Delhi,2024-06-24,Savings,Student
+1682,Sneha Nair,60.0,Male,Delhi,Delhi,2023-09-03,Current,Student
+1511,Rekha Kapoor,58.0,Male,Mumbai,Maharashtra,2022-11-13,Salary,Student
+1059,Rahul Joshi,44.0,Female,Delhi,Delhi,2023-09-22,Current,Student
+1475,Pooja Mishra,52.0,Female,Pune,Maharashtra,2023-01-23,Current,Salaried
+1561,Nikhil Malhotra,49.0,Male,Delhi,Delhi,2024-04-04,Salary,Business
+1857,Aakash Reddy,32.0,Female,Jaipur,Rajasthan,2020-01-22,Salary,Salaried
+1748,Kiran Verma,37.0,Male,Mumbai,Maharashtra,2021-08-04,Savings,Student
+1253,Vikram Mehta,29.0,Female,Jaipur,Rajasthan,2024-11-13,Savings,Salaried
+1022,Priya Rao,57.0,Male,Delhi,Delhi,2024-02-07,Current,Salaried
+1314,Ritu Kapoor,35.0,Male,Kolkata,West Bengal,2021-12-09,Savings,Student
+1460,Manish Rao,31.0,Male,Hyderabad,Telangana,2023-09-07,Savings,Student
+1161,Rekha Joshi,59.0,Male,Mumbai,Maharashtra,2024-05-30,Current,Business
+1277,Divya Tiwari,37.0,Male,Bhopal,Madhya Pradesh,2020-04-15,Salary,Self-Employed
+1956,Ritu Singh,47.0,Female,Delhi,Delhi,2020-08-26,Savings,Salaried
+1192,Kavya Singh,46.0,Male,Pune,Maharashtra,2020-12-17,Salary,Self-Employed
+1386,Meena Mehta,52.0,Male,Jaipur,Rajasthan,2020-12-07,Current,Student
+1806,Arjun Verma,50.0,Female,Bhopal,Madhya Pradesh,2024-11-06,Salary,Salaried
+1414,Sneha Kapoor,43.0,Female,Pune,Maharashtra,2024-06-08,Savings,Business
+1492,Divya Nair,41.0,Male,Delhi,Delhi,2022-03-05,Salary,Self-Employed
+1344,Nikhil Mehta,26.0,Female,Ahmedabad,Gujarat,2023-08-13,Current,Salaried
+1770,Aakash Verma,33.0,Female,Kolkata,West Bengal,2022-03-26,Current,Student
+1309,Manish Patel,23.0,Female,Pune,Maharashtra,2023-12-05,Savings,Salaried
+1662,Divya Sharma,55.0,Male,Kolkata,West Bengal,2022-01-30,Salary,Student
+1131,Nikhil Kapoor,45.0,male,Kolkata,West Bengal,2020-03-16,Savings,Student
+1664,Manish Gupta,24.0,Female,Kolkata,West Bengal,2023-01-12,Savings,Student
+1872,Anita Reddy,26.0,Female,Chennai,Tamil Nadu,2023-08-19,Savings,Business
+1100,Sneha Joshi,39.0,Male,Pune,Maharashtra,2021-01-02,Current,Salaried
+1373,Anita Sharma,51.0,Male,Chennai,Tamil Nadu,2022-05-01,Savings,Salaried
+1088,Rahul Mishra,52.0,Male,Ahmedabad,Gujarat,2022-01-11,Salary,Self-Employed
+1459,Rohit Rao,22.0,Female,Mumbai,Maharashtra,2024-07-14,Current,Student
+1331,Manish Rao,30.0,Male,Chennai,Tamil Nadu,2023-02-07,Salary,Self-Employed
+1215,Arjun Malhotra,57.0,Female,Kolkata,West Bengal,2024-04-24,Current,Self-Employed
+1467,Amit Malhotra,46.0,Male,Pune,Maharashtra,2021-09-10,Current,Business
+1122,Priya Joshi,38.0,Male,Chennai,Tamil Nadu,2022-06-16,Salary,Self-Employed
+1615,Kiran Malhotra,53.0,Male,Chandigarh,Punjab,2021-05-04,Salary,Business
+1021,Divya Reddy,52.0,Male,Delhi,Delhi,2022-01-13,Current,Business
+1701,Aakash Joshi,51.0,Female,Chandigarh,Punjab,2021-10-01,Current,Business
+1072,Amit Iyer,36.0,Female,Pune,Maharashtra,2021-10-16,Salary,Salaried
+1107,Kavya Verma,60.0,Male,Hyderabad,Telangana,2023-07-05,Savings,Student
+1271,Divya Singh,29.0,Male,Ahmedabad,Gujarat,2022-02-03,Current,Student
+1861,Kiran Mehta,28.0,male,Chennai,Tamil Nadu,2021-08-26,Current,Salaried
+1436,Deepak Malhotra,58.0,Female,Hyderabad,Telangana,2024-02-09,Salary,Business
+1103,Deepak Reddy,32.0,Male,Chennai,Tamil Nadu,2024-10-30,Current,Salaried
